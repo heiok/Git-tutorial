@@ -1,1 +1,1 @@
-bE F G bA bB C D
+Eb F G Ab Bb C D
