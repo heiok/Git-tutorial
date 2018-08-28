@@ -1,0 +1,9 @@
+efficient
+partner
+inquiry
+data
+stock
+candidate
+dumb
+resident
+occupy
