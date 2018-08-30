@@ -1,3 +1,2 @@
-# gitstudy
-gittest
-test
+# gitstudy  
+This is gitstudy account!  
