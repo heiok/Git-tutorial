@@ -7,3 +7,9 @@ candidate
 dumb 
 resident 
 occupy 
+stupid	
+experience	
+outstanding	
+pedlar	
+castle	
+
