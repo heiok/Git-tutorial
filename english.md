@@ -12,4 +12,7 @@ experience
 outstanding	
 pedlar	
 castle	
+anxious  
+excuse  
+unfortunately  
 
