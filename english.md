@@ -15,4 +15,8 @@ castle
 anxious  
 excuse  
 unfortunately  
+autumn  
+spring  
+summer  
+winter  
 
