@@ -21,3 +21,10 @@ summer
 winter  
 contest
 contract
+together
+fund
+money
+tired
+infer
+worst
+distress
