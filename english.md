@@ -28,3 +28,7 @@ tired
 infer
 worst
 distress
+destory
+introduce
+philosopher
+possess
