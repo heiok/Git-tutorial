@@ -36,4 +36,9 @@ advantage
 colleague
 drill
 steel
+century
+rube
+opearator
+develop
+development
 
