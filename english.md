@@ -42,3 +42,11 @@ opearator
 develop
 development
 2018/9/16 MANGKHUT at Guangdong ZH
+mangkhut
+joy
+desire
+airport
+school
+bite
+bowl
+roof
