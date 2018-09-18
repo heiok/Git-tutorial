@@ -58,4 +58,10 @@ reluctant
 determine
 thirsty
 climb
+porfessional
+clap
+britain
+australia
+lake
+fundamental
 
