@@ -50,3 +50,12 @@ school
 bite
 bowl
 roof
+understanding
+drift
+continual
+popular
+reluctant
+determine
+thirsty
+climb
+
