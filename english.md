@@ -69,3 +69,15 @@ desire
 bite
 hint
 harm
+victory
+confidence
+possess
+unfortunately
+upon
+respective
+review
+campus
+combine
+fair
+commerical
+finance
