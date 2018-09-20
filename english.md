@@ -96,4 +96,9 @@ invisible
 primitive
 mechanic
 physical
+objection
+favorable
+brilliant
+intelligent
+desire
 
