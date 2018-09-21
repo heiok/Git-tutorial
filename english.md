@@ -101,4 +101,16 @@ favorable
 brilliant
 intelligent
 desire
-
+handsome
+whisper
+window
+manual
+definite
+farmer
+typewhiter
+resistant
+fare
+resolve
+England
+French
+bench
