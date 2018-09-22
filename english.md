@@ -114,3 +114,10 @@ resolve
 England
 French
 bench
+lunch
+particularly
+confident
+monthly
+detect
+influence
+
