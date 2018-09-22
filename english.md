@@ -127,3 +127,8 @@ scarecly
 hurt
 increase
 destract
+lecture
+publish
+compose
+inhabitant
+
