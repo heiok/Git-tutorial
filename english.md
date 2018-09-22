@@ -131,4 +131,10 @@ lecture
 publish
 compose
 inhabitant
+August
+September
+African
+Europe
+challenge
+excellent
 
