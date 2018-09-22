@@ -120,4 +120,10 @@ confident
 monthly
 detect
 influence
-
+art
+as
+fate
+scarecly
+hurt
+increase
+destract
