@@ -137,4 +137,8 @@ African
 Europe
 challenge
 excellent
+activity
+popular
+deer
+declare
 
