@@ -141,4 +141,16 @@ activity
 popular
 deer
 declare
+earnest
+bite
+independence
+attract
+aim
+eager
+school
+test
+analysis
+lovely
+pet
+
 
