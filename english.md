@@ -167,5 +167,17 @@ everybody
 nobody
 okay
 prepare
+visit
+industrial
+definition
+fellow
+intense
+physical
+outlook
+rice
+mechanic
+discipline
+credit
+majority
 
 
