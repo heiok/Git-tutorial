@@ -190,5 +190,17 @@ digest
 mistress
 old
 highly
+amuse
+accurate
+accuse
+his
+he
+can
+room
+wolf
+mistake
+pipe
+Friday
+daily
 
 
