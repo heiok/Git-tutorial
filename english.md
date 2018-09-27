@@ -202,5 +202,14 @@ mistake
 pipe
 Friday
 daily
+empolyer
+industry
+cause
+tough
+fence
+emergency
+fellow
+outlook
+main
 
 
