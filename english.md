@@ -226,4 +226,12 @@ hot
 fairly
 chapter
 nuclear
+biology
+incline
+midnight
+cap
+hardly
+beyond
+compose
+opposite
 
