@@ -218,4 +218,12 @@ from
 following
 experience
 conference
+isolate
+rough
+senstive
+deer
+hot
+fairly
+chapter
+nuclear
 
