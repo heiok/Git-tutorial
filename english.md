@@ -234,4 +234,11 @@ hardly
 beyond
 compose
 opposite
-
+intellectual
+fine
+therefore
+mystery
+shy
+shade
+laboratory
+old
