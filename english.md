@@ -253,4 +253,18 @@ venture
 reveal
 aloud
 argument
+reputation
+prosperous
+adverb
+airline
+senstive
+tress
+river
+cunsin
+long
+short
+do
+use
+magazine
+habit
 
