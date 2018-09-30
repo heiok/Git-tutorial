@@ -242,3 +242,15 @@ shy
 shade
 laboratory
 old
+attract
+original
+aim
+reluctant
+last
+nowhere
+harm
+venture
+reveal
+aloud
+argument
+
