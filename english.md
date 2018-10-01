@@ -267,4 +267,14 @@ do
 use
 magazine
 habit
+independence
+highly
+angry
+Spanish
+Germany
+geometry
+analysis
+pilot
+airplane
+drum
 
