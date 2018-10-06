@@ -318,5 +318,23 @@ Britain
 India
 I
 wage
+cousin
+foreign
+conference
+consequence
+contribute
+company
+suit
+delight
+respective
+motive
+mystery
+telegram
+continent
+sometimes
+wherever
+river
+prosperous
+maths
 
 
