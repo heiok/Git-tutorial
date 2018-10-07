@@ -346,5 +346,13 @@ main
 oblige
 fund
 venture
+indeed
+tight
+revolutionary
+society
+prisoner
+sometime
+refuse
+comprehension
 
 
