@@ -354,5 +354,20 @@ prisoner
 sometime
 refuse
 comprehension
+own
+representative
+satisfactory
+president
+wise
+raise
+proper
+beast
+respect
+revise
+liebrate
+belief
+logic
+garage
+
 
 
