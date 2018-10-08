@@ -368,6 +368,14 @@ liebrate
 belief
 logic
 garage
+schedule
+course
+drug
+secretary
+cooperate
+home
+fit
+electricity
 
 
 
