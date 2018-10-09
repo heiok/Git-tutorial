@@ -383,6 +383,17 @@ biology
 physical
 man
 sensitive
-
-
+policeman
+scarce
+liebrate
+miracle
+circle
+logic
+popular
+particularly
+extraordinary
+misunderstand
+treasure
+purse
+literature
 
