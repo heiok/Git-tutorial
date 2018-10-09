@@ -406,4 +406,9 @@ representative
 pronounce
 wise
 fare
+vivid
+detail
+describe
+diagram
+roll
 
