@@ -396,4 +396,14 @@ misunderstand
 treasure
 purse
 literature
+injection
+schedule
+objection
+fatal
+mild
+shout
+representative
+pronounce
+wise
+fare
 
