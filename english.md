@@ -438,5 +438,9 @@ failure
 fatal
 severe
 serve
+tax
+wrist
+procedure
+intelligent
 mysterious
 
