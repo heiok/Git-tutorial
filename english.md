@@ -492,4 +492,14 @@ L6
 
 1260+840+73+850+192+0=3215  
 
+daugther
+England
+pea
+fear
+sweat
+find
+outside
+attrack
+risk
+extraordinary
 
