@@ -508,4 +508,9 @@ contract
 substract
 bound
 apologize
+plant
+pilot
+asure
+outside
+Australian
 
