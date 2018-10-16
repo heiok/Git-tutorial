@@ -533,5 +533,9 @@ manner
 minus
 equip
 sequence
+independence
+faculty
+argument
+fancy
 
 
