@@ -499,7 +499,7 @@ fear
 sweat
 find
 outside
-attrack
+attack
 risk
 extraordinary
 ill
@@ -510,7 +510,7 @@ bound
 apologize
 plant
 pilot
-asure
+assure
 outside
 Australian
 eve
@@ -520,4 +520,18 @@ unexpected
 analog
 chemistry
 environment
+tie
+matter
+troop
+adult
+appetite
+knee
+dislike
+harvest
+apartment
+manner
+minus
+equip
+sequence
+
 
