@@ -1,0 +1,84 @@
+LEDE
+
+1.openssl/libcrypto
+tar -xf tar -xf openssl-1.0.2p.tar.gz
+cd openssl-1.0.2p
+export TOOLCHAIN=/home/heiok/lede-sdk-17.01.5-ar71xx-generic_gcc-5.4.0_musl-1.1.16.Linux-x86_64/staging_dir/toolchain-mips_24kc_gcc-5.4.0_musl-1.1.16
+export PATH="$TOOLCHAIN/bin:$PATH"
+export STAGING_DIR=/home/heiok/lede-sdk-17.01.5-ar71xx-generic_gcc-5.4.0_musl-1.1.16.Linux-x86_64/staging_dir
+export CC=$TOOLCHAIN/bin/mips-openwrt-linux-musl-gcc
+export RANLIB=$TOOLCHAIN/bin/mips-openwrt-linux-musl-ranlib
+./Configure --prefix=$TOOLCHAIN/usr linux-generic32 shared
+make
+echo $?
+make install
+
+2.libusb/pcsc
+2-1.libusb
+tar -xf libusb-1.0.9.tar.bz2
+cd libusb-1.0.9
+./configure --prefix=$TOOLCHAIN/usr --host=mips-openwrt-linux-uclibc （如果显示./config显示未安装libudev-dev，可暂时加--disable-udev通过）。
+make
+echo $?
+make install
+ 
+2-2.pcsc
+cd pcsc-lite-1.8.8
+./configure CC=$TOOLCHAIN/bin/mips-openwrt-linux-musl-gcc-5.4.0 --disable-libudev --host=mipsel-openwrt-linux-uclibc --prefix=$TOOLCHAIN/usr --exec-prefix=$TOOLCHAIN/usr --disable-shared LIBUSB_LIBS="-L$TOOLCHAIN/usr/lib -lusb-1.0" LIBUSB_CFLAGS="-I$TOOLCHAIN/usr/include/libusb-1.0"
+make
+echo $?
+make install
+ 
+3.oscam
+cd oscam
+export CPLUS_INCLUDE_PATH=$CPLUS_INCLUDE_PATH:$TOOLCHAIN/usr/include/
+export C_INCLUDE_PATH=$C_INCLUDE_PATH:$TOOLCHAIN/usr/include/
+make CROSS=$TOOLCHAIN/bin/mipsel-openwrt-linux-uclibc- USE_LIBUSB=1 LIBUSB_LIB="$TOOLCHAIN/usr/lib/libusb-1.0.a -lrt" USE_PCSC=1 USE_SSL=1 EXTRA_FLAGS="-I$TOOLCHAIN/usr/include/PCSC"
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+OpenWRT
+ 
+/home/heiok/openwrt-sdk-18.06.0-ar71xx-generic_gcc-7.3.0_musl.Linux-x86_64/staging_dir/toolchain-mips_24kc_gcc-7.3.0_musl
+
+ 1.openssl/libcrypto
+tar -xf tar -xf openssl-1.0.2p.tar.gz
+cd openssl-1.0.2p
+export TOOLCHAIN=/home/heiok/openwrt-sdk-18.06.0-ar71xx-generic_gcc-7.3.0_musl.Linux-x86_64/staging_dir/toolchain-mips_24kc_gcc-7.3.0_musl
+export PATH="$TOOLCHAIN/bin:$PATH"
+export STAGING_DIR=/home/heiok/openwrt-sdk-18.06.0-ar71xx-generic_gcc-7.3.0_musl.Linux-x86_64/staging_dir
+export CC=$TOOLCHAIN/bin/mips-openwrt-linux-musl-gcc
+export RANLIB=$TOOLCHAIN/bin/mips-openwrt-linux-musl-ranlib
+./Configure --prefix=$TOOLCHAIN/usr linux-generic32 shared
+make
+echo $?
+make install
+
+2.libusb/pcsc
+2-1.libusb
+tar -xf libusb-1.0.9.tar.bz2
+cd libusb-1.0.9
+./configure --prefix=$TOOLCHAIN/usr --host=mips-openwrt-linux-uclibc （如果显示./config显示未安装libudev-dev，可暂时加--disable-udev通过）。
+make
+echo $?
+make install
+ 
+2-2.pcsc
+cd pcsc-lite-1.8.8
+./configure CC=$TOOLCHAIN/bin/mips-openwrt-linux-musl-gcc-7.3.0 --disable-libudev --host=mipsel-openwrt-linux-uclibc --prefix=$TOOLCHAIN/usr --exec-prefix=$TOOLCHAIN/usr --disable-shared LIBUSB_LIBS="-L$TOOLCHAIN/usr/lib -lusb-1.0" LIBUSB_CFLAGS="-I$TOOLCHAIN/usr/include/libusb-1.0"
+make
+echo $?
+make install
+ 
+3.oscam
+cd oscam
+export CPLUS_INCLUDE_PATH=$CPLUS_INCLUDE_PATH:$TOOLCHAIN/usr/include/
+export C_INCLUDE_PATH=$C_INCLUDE_PATH:$TOOLCHAIN/usr/include/
+make CROSS=$TOOLCHAIN/bin/mips-openwrt-linux-musl- USE_LIBUSB=1 LIBUSB_LIB="$TOOLCHAIN/usr/lib/libusb-1.0.a -lrt" USE_PCSC=1 USE_SSL=1 EXTRA_FLAGS="-I$TOOLCHAIN/usr/include/PCSC"
