@@ -549,5 +549,16 @@ flexible
 foolish
 reception
 population
+fortunate
+quite
+quiet
+recommend
+meat
+work
+shy
+toy
+royal
+merely
+ton
 
 
