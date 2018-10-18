@@ -560,5 +560,17 @@ toy
 royal
 merely
 ton
+actress
+wrist
+trist
+poem
+pea
+oneself
+college
+wine
+bright
+continuous
+consider
+medicine
 
 
