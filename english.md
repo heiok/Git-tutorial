@@ -572,5 +572,10 @@ bright
 continuous
 consider
 medicine
+explain
+department
+fundtain
+justify
+
 
 
