@@ -586,5 +586,19 @@ debate
 sulotion
 quality
 dormitory
+revolutionary
+foolist
+worth
+cough
+obey
+pot
+dot
+admit
+confuse
+condition
+construction
+abstract
+table
+me
 
 
