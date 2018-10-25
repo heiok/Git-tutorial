@@ -603,5 +603,13 @@ me
 revolution
 reception
 guilty
+piece
+tale
+resolve
+cheer
+graceful
+magnificent
+effective
+universal
 
 
