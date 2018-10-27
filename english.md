@@ -614,5 +614,10 @@ universal
 behaviour
 ordinary
 tremendous
+regular
+thief
+contrary
+pot
+knee
 
 
