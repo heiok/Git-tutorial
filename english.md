@@ -619,5 +619,15 @@ thief
 contrary
 pot
 knee
+sufficient
+hospital
+absorb
+information
+describe
+interpret
+apology
+lung
+congratulate
+simulate
 
 
