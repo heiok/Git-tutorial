@@ -629,5 +629,21 @@ apology
 lung
 congratulate
 simulate
+curiosity
+customer
+education
+policeman
+coarse
+weep
+pole
+belief
+drug
+mathematics
+register
+regret
+discuss
+declare
+tomorrow
+reluctant
 
 
