@@ -662,5 +662,10 @@ necessary
 various
 discovery
 bicycle
+specific
+Thursday
+Chritmas
+possess
+typist
 
 
