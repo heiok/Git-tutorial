@@ -678,5 +678,10 @@ emperor
 Canadian
 behaviour
 official
+specific
+Thursday
+Chritmas
+possess
+typist
 
 
