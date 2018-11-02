@@ -662,5 +662,21 @@ necessary
 various
 discovery
 bicycle
+favor
+corresponding
+famous
+unable
+wool
+twist
+shoulder
+dusk
+marvellous
+expense
+audience
+international
+emperor
+Canadian
+behaviour
+official
 
 
