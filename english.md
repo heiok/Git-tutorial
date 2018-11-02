@@ -683,5 +683,7 @@ Thursday
 Chritmas
 possess
 typist
+arrow
+property
 
 
