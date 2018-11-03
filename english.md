@@ -685,5 +685,9 @@ possess
 typist
 arrow
 property
+fence  
+defend
+depend
+enclose
 
 
