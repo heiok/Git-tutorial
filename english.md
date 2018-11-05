@@ -698,5 +698,8 @@ curiosity
 weep
 sunrise
 peasant
+cross
+thorough
+responsible
 
 
