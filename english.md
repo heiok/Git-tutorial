@@ -689,5 +689,14 @@ fence
 defend
 depend
 enclose
+investigate
+economic
+boil
+phenomenon
+civilization
+curiosity
+weep
+sunrise
+peasant
 
 
