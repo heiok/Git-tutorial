@@ -701,5 +701,12 @@ peasant
 cross
 thorough
 responsible
+survive
+gift
+goal
+arouse
+church
+worthy
+Wednesday
 
 
