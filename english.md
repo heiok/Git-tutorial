@@ -708,5 +708,20 @@ arouse
 church
 worthy
 Wednesday
+Monday
+hence
+adequate
+communist
+measure
+mdecine
+gymnasium
+golden
+cough
+foundation
+Greek
+laboratory
+troop
+terrible
+reasonable
 
 
