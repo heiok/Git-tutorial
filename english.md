@@ -723,5 +723,20 @@ laboratory
 troop
 terrible
 reasonable
+fortunate
+tune
+Asia
+Canada
+Saturday
+Monday
+Tuesday
+analyse
+collect
+ceremony
+sailor
+site
+sense
+horizon
+mouth
 
 
