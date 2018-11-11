@@ -758,5 +758,7 @@ fog
 idle
 restaurant
 fever
-
+German
+expensive
+independtent
 
