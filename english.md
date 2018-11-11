@@ -751,5 +751,12 @@ particularly
 expect
 except
 educate
+evident
+vocabulary
+slice
+fog
+idle
+restaurant
+fever
 
 
