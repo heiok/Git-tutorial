@@ -761,4 +761,12 @@ fever
 German
 expensive
 independtent
-
+festival
+tour
+bay
+leave
+embarrass
+suggestion
+contrary
+exhibition
+journal
