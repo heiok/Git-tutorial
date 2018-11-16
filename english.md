@@ -793,4 +793,8 @@ except
 colleague
 pocket
 vocabulary
+interview
+hopeless
+stair
+escape
 
