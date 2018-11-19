@@ -805,4 +805,17 @@ rate
 gay
 assistant
 association
+recognize
+significant
+pursue
+monument
+chin
+neck
+civil
+reference
+museum
+arrange
+drop
+dictionary
+document
 
