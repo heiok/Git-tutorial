@@ -830,4 +830,11 @@ scene
 artist
 illness
 being
+garden
+burden
+teenager
+fortnight
+stair
+sit
+call
 
