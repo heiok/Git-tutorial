@@ -837,4 +837,9 @@ fortnight
 stair
 sit
 call
+scholarship
+scale
+crew
+proof
+servant
 
