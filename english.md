@@ -842,4 +842,9 @@ scale
 crew
 proof
 servant
+PETS words study begin
+ambition
+position
+agony
+personality
 
