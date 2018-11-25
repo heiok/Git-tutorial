@@ -852,4 +852,8 @@ adolescent
 abundant
 congratulation
 administration
+clinic
+picnic
+convention
+concession
 
