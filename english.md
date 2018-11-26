@@ -856,4 +856,17 @@ clinic
 picnic
 convention
 concession
+conviction
+flavour
+favour
+personal
+exhibition
+liter
+chin
+goose
+door
+salt
+delegate
+delegation
+deficit
 
