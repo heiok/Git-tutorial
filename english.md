@@ -869,4 +869,9 @@ salt
 delegate
 delegation
 deficit
-
+misfortune
+ministry
+librarian
+observation
+obligation
+ornament
