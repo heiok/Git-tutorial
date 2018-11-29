@@ -875,3 +875,15 @@ librarian
 observation
 obligation
 ornament
+English
+senate
+senator
+communist
+forth
+identity
+tall
+significance
+priority
+proficiency
+privilege
+
