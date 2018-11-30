@@ -886,4 +886,16 @@ significance
 priority
 proficiency
 privilege
+privacy
+enthusiastic
+socialist
+symptom
+syndrome
+Latin
+cabinet
+pupil
+courage
+acknowledge
+surgeon
+physician
 
