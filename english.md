@@ -914,4 +914,13 @@ polar
 reject
 virtual
 valid
+profit
+vacant
+recent
+adjective
+abuse
+dictionary
+physicist
+physician
+democracy
 
