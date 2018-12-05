@@ -923,4 +923,9 @@ dictionary
 physicist
 physician
 democracy
+economical
+rival
+toilet
+privilege
+priority
 
