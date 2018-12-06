@@ -928,4 +928,17 @@ rival
 toilet
 privilege
 priority
+birthday
+abuse
+surgeon
+fault
+accelerate
+accommodate
+acustom
+symptom
+syndrome
+automobile
+comprehend
+compress
+comprise
 
