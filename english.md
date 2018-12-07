@@ -941,4 +941,16 @@ automobile
 comprehend
 compress
 comprise
+compass
+sufficient
+gentle
+chemist
+ashamed
+bored
+geography
+different
+neighbourhood
+undergo
+underline
+aside
 
