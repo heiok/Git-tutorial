@@ -968,4 +968,13 @@ garage
 pill
 weather
 gather
+theatre
+agriculture
+culture
+prince
+civil
+cigarette
+upwards
+urban
+colony
 
