@@ -977,4 +977,22 @@ cigarette
 upwards
 urban
 colony
+university
+universe
+sun
+those
+but
+comfort
+comfortable
+promise
+possibly
+economy
+chin
+door
+former
+fortnight
+forward
+execute
+lawyer
+conprehensive
 
