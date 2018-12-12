@@ -995,4 +995,22 @@ forward
 execute
 lawyer
 conprehensive
+insult
+emperor
+out
+reference
+being
+chemical
+military
+temporary
+million
+dollar
+magnificent
+cent
+sit
+pea
+European
+Italian
+port
+probably
 
