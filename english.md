@@ -1013,4 +1013,14 @@ European
 Italian
 port
 probably
+deserve
+involve
+persuade
+parliament
+stamp
+attendant
+opponent
+bold
+praise
+practise
 
