@@ -1023,4 +1023,25 @@ opponent
 bold
 praise
 practise
+agony
+misery
+position
+option
+consideration
+comparison
+passenger
+fiction
+notion
+mess
+guidance
+tiny
+assistance
+diet
+estate
+framework
+convenience
+denial
+defect
+expectation
+ambition
 
