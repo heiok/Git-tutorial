@@ -1044,4 +1044,23 @@ denial
 defect
 expectation
 ambition
+laundry
+appointment
+prosperity
+adolescent
+degree
+control
+pressure
+alcohol
+administration
+alert
+clerk
+energetic
+enthusiastic
+agendda
+expect
+expose
+security
+recognition
+privacy
 
