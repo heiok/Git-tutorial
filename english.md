@@ -1063,4 +1063,20 @@ expose
 security
 recognition
 privacy
+precise
+approval
+prove
+reasonable
+concession
+congratulation
+humble
+bakery
+basin
+breakdown
+dormitory
+celebrity
+Wednesday
+appetite
+charm
+chimney
 
