@@ -1104,4 +1104,14 @@ deadline
 delegate
 delegation
 cough
+reception
+population
+fresh
+greatly
+encourage
+actual
+thank
+daylight
+arrow
+approximate
 
