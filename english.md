@@ -1114,4 +1114,7 @@ thank
 daylight
 arrow
 approximate
+contrary
+insect
+regular
 
