@@ -1117,4 +1117,22 @@ approximate
 contrary
 insect
 regular
+mercy
+ministry
+obesity
+observation
+flexible
+petroleum
+grocery
+licence
+misfortune
+poem
+poetry
+physician
+physicist
+royal
+inform
+perform
+nutrition
+pension
 
