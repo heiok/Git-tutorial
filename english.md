@@ -1135,4 +1135,19 @@ inform
 perform
 nutrition
 pension
+intend
+possession
+recession
+reduction
+resolution
+resistance
+regulation
+priority
+privilege
+proficiency
+signal
+signature
+significance
+sacrifice
+sculpture
 
