@@ -1150,4 +1150,21 @@ signature
 significance
 sacrifice
 sculpture
+symptom
+syndrome
+surgeon
+blend
+bless
+breed
+bleed
+condemn
+compress
+comprise
+comprehend
+compensate
+accommodate
+accustom
+collaborate
+collapse
+accelerate
 
