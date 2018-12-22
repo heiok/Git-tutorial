@@ -1167,4 +1167,14 @@ accustom
 collaborate
 collapse
 accelerate
+boost
+despise
+dispose
+detach
+thrive
+coordinate
+spiritual
+verify
+vertical
+negotiate
 
