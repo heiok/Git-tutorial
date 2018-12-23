@@ -1177,4 +1177,23 @@ spiritual
 verify
 vertical
 negotiate
+conditional
+confidential
+congratulate
+deliberate
+desperate
+concise
+indoor
+indoors
+forest
+him
+down
+eastward
+northward
+poverty
+various
+academic
+election
+elegant
+gigantic
 
