@@ -1196,4 +1196,15 @@ academic
 election
 elegant
 gigantic
+electron
+lorry
+abstract
+condition
+worth
+furious
+ownership
+Chinaese
+substance
+indicate
+escape
 
