@@ -1225,4 +1225,16 @@ Chinaese
 substance
 indicate
 escape
+revolution
+alike
+repeat
+ordinary
+exhibition
+gymnasium
+stock
+lifetime
+freedom
+relative
+gradually
+January
 
