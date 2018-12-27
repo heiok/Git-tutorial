@@ -1237,4 +1237,11 @@ freedom
 relative
 gradually
 January
+cope
+beginning
+beard
+recorder
+worthy
+phenomenon
+district
 
