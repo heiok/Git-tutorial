@@ -1196,4 +1196,8 @@ academic
 election
 elegant
 gigantic
+moral
+discipline
+participate
+continual
 
