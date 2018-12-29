@@ -1248,4 +1248,9 @@ recorder
 worthy
 phenomenon
 district
+inhabitant
+resident
+conclusion
+curiosity
+enthusiasm
 
