@@ -1253,4 +1253,27 @@ resident
 conclusion
 curiosity
 enthusiasm
+associate
+greedy
+grand
+conciderable
+attractive
+religious
+consume
+weep
+menu
+ceiling
+salt
+deaf
+head
+education
+opportunity
+prosoal
+eventually
+peasant
+servant
+connect
+absent
+navigation
+kilometre
 
