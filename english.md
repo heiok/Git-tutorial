@@ -1276,4 +1276,13 @@ connect
 absent
 navigation
 kilometre
+eye
+legal
+circumstance
+frighten
+wheat
+pollute
+objection
+introduction
+ability
 
