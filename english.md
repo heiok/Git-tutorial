@@ -1318,4 +1318,19 @@ property
 there
 these
 wool
+edge
+convenient
+sympathy
+twenty
+silver
+student
+complain
+bitter
+stomach
+vocabulary
+glory
+gentleman
+shave
+delicate
+distinction
 
