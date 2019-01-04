@@ -1333,4 +1333,20 @@ gentleman
 shave
 delicate
 distinction
+profession
+choose
+satisfy
+happy
+depend
+occasional
+overseas
+equivalent
+moderate
+wisdom
+telescope
+coat
+fence
+defend
+provided
+technical
 
