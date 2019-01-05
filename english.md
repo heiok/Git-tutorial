@@ -1349,4 +1349,13 @@ fence
 defend
 provided
 technical
+essay
+dialect
+inevitable
+ridiculous
+cease
+unusual
+noble
+survive
+sunrise
 
