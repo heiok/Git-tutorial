@@ -1358,4 +1358,18 @@ unusual
 noble
 survive
 sunrise
+fortune
+civilization
+glorious
+sunset
+rarely
+nearby
+debt
+warm
+whenever
+somewhat
+mechanical
+temper
+shine
+box
 
