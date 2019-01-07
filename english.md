@@ -1372,4 +1372,22 @@ mechanical
 temper
 shine
 box
+battle
+physics
+consist
+Chritian
+Greek
+bit
+league
+cheque
+adequate
+statistical
+agent
+economic
+prevent
+previous
+foundation
+commerce
+object
+measure
 
