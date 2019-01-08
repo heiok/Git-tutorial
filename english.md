@@ -1390,4 +1390,27 @@ foundation
 commerce
 object
 measure
+attempt
+courage
+golden
+us
+bat
+ceremony
+insist
+initial
+observe
+thought
+mean
+meantime
+grant
+singular
+yield
+tune
+television
+imply
+may
+English
+Monday
+sense
+thread
 
