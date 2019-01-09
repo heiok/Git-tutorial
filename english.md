@@ -1413,4 +1413,20 @@ English
 Monday
 sense
 thread
+trend
+earn
+astronaut
+establish
+pupil
+collect
+violin
+Tuesday
+Saturday
+frequency
+analyse
+faith
+Latin
+concern
+achieve
+socialist
 
