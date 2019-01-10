@@ -1429,4 +1429,26 @@ Latin
 concern
 achieve
 socialist
+barrier
+cattle
+colony
+relation
+occupation
+hold
+relax
+fold
+restaurant
+abroad
+corn
+confirm
+contain
+disorder
+independent
+horizon
+pattern
+threaten
+except
+behalf
+compare
+success
 
