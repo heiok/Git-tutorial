@@ -1451,4 +1451,23 @@ except
 behalf
 compare
 success
+communication
+fault
+annoy
+Africa
+duration
+demonstrate
+delicious
+ripe
+vision
+avoid
+exercise
+response
+aid
+arm
+passive
+knowledge
+appearance
+senior
+phrase
 
