@@ -1470,4 +1470,27 @@ knowledge
 appearance
 senior
 phrase
+democracy
+mind
+stone
+inspire
+illustrate
+German
+gramme
+foreigner
+fuel
+shock
+idle
+freeze
+counter
+discover
+require
+maximum
+electric
+railway
+slice
+mode
+usage
+pursue
+crude
 
