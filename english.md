@@ -1595,4 +1595,25 @@ cell
 petrol
 nevertheless
 kindness
+association
+implication
+assistant
+function
+announce
+pardon
+mother
+pill
+estimate
+institute
+effect
+scientific
+village
+crystal
+pacific
+ruin
+plot
+fridge
+verb
+social
+grammar
 
