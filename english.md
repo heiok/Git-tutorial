@@ -1686,4 +1686,7 @@ spare
 keen
 hint
 drift
-
+continent
+equity
+debt
+asset
