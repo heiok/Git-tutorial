@@ -1795,4 +1795,13 @@ division
 governor
 earnest
 intense
+variety
+misfortune
+mischief
+ornament
+pavement
+nutrition
+population
+portrait
+figure
 
