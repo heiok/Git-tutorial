@@ -1968,6 +1968,11 @@ discipline
 expense
 congress
 familiar
-
-
+accomplish
+curiousity
+disgust
+harbor
+prosperous
+disease
+mistress
 
