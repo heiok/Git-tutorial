@@ -1985,4 +1985,11 @@ pronoun
 particle
 reward
 impose
+fare
+excite
+disappoint
+folk
+shape
+poet
+leap
 
