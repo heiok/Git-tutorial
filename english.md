@@ -1992,4 +1992,12 @@ folk
 shape
 poet
 leap
+investigate
+worthwhile
+council
+chalk
+tight
+draft
+fundamental
+
 
