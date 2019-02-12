@@ -2002,5 +2002,13 @@ fundamental
 protest
 doubtful
 advantage
+transparent
+representative
+wise
+beneath
+pride
+term
+treasure
+competition
 
 
