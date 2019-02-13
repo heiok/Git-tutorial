@@ -2010,5 +2010,13 @@ pride
 term
 treasure
 competition
+brand
+minister
+nervous
+jealous
+cheat
+accurate
+procession
+interpret
 
 
