@@ -2018,5 +2018,13 @@ cheat
 accurate
 procession
 interpret
+sentence
+absorb
+introduce
+nowhere
+barber
+upstairs
+fountain
+similar
 
 
