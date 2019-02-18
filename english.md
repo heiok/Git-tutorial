@@ -2044,5 +2044,13 @@ hesitate
 welfare
 pupil
 sailor
+clue
+cure
+fur
+spade
+vision
+definition
+amaze
+offend
 
 
