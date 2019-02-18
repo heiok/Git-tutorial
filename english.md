@@ -2040,5 +2040,9 @@ vegetable
 fluid
 passage
 humorous
+hesitate
+welfare
+pupil
+sailor
 
 
