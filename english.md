@@ -2052,5 +2052,12 @@ vision
 definition
 amaze
 offend
+household
+democracy
+certainly
+beef
+sleeve
+mature
+cycle
 
 
