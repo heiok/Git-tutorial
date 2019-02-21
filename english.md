@@ -2059,5 +2059,10 @@ beef
 sleeve
 mature
 cycle
+eager
+lecture
+subtract
+growth
+polite
 
 
