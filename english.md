@@ -2064,5 +2064,11 @@ lecture
 subtract
 growth
 polite
+statue
+awful
+rush
+biology
+wonder
+embarrass
 
 
