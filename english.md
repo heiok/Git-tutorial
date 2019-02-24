@@ -2077,5 +2077,16 @@ leisure
 fill
 marvellous
 reform
+credit
+habit
+decide
+assure
+aside
+starve
+rid
+pity
+purchase
+drum
+research
 
 
