@@ -2088,5 +2088,9 @@ pity
 purchase
 drum
 research
+shelf
+achievement
+hostile
+deserve
 
 
