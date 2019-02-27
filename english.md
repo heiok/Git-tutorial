@@ -2092,5 +2092,12 @@ shelf
 achievement
 hostile
 deserve
+facility
+implication
+purse
+misunderstand
+ugly
+disappear
+scientific
 
 
