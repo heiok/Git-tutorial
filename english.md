@@ -2099,5 +2099,8 @@ misunderstand
 ugly
 disappear
 scientific
+faculty
+waste
+relief
 
 
