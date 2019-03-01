@@ -2102,5 +2102,12 @@ scientific
 faculty
 waste
 relief
+comfort
+debate
+opera
+neat
+treaty
+grave
+neither
 
 
