@@ -2117,5 +2117,15 @@ adolescent
 kind
 motive
 conceal
+appetite
+certain
+appreciate
+comparative
+bore
+explore
+convey
+stain
+glove
+circle
 
 
