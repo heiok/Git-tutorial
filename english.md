@@ -2127,5 +2127,11 @@ convey
 stain
 glove
 circle
+treatment
+eternal
+immigrant
+seldom
+enthusiastic
+endeavour
 
 
