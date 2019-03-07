@@ -2134,5 +2134,22 @@ seldom
 enthusiastic
 endeavour
 chimney
+gesture
+flame
+dignity
+comprehension
+purpose
+pretend
+variety
+deal
+prisoner
+seize
+dissolve
+steal
+desirable
+misfortune
+mischief
+grocery
+governor
 
 
