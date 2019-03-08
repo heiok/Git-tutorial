@@ -2151,5 +2151,10 @@ misfortune
 mischief
 grocery
 governor
+academic
+humble
+sculpture
+remedy
+church
 
 
