@@ -2156,5 +2156,9 @@ humble
 sculpture
 remedy
 church
+combat
+compel
+surgeon
+pension
 
 
