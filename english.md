@@ -2160,5 +2160,20 @@ combat
 compel
 surgeon
 pension
+hazard
+copper
+examination
+serve
+pronounce
+ashamed
+classify
+technique
+sacrifice
+rumour
+prejudice
+explanation
+describe
+satisfaction
+pain
 
 
