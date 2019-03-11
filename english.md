@@ -2175,5 +2175,14 @@ explanation
 describe
 satisfaction
 pain
+prove
+conspicuous
+elegant
+brave
+condemn
+clarify
+tactics
+remain
+compensate
 
 
