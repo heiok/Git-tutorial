@@ -2184,5 +2184,11 @@ clarify
 tactics
 remain
 compensate
+exhibition
+mood
+cruel
+instruct
+tease
+contradict
 
 
