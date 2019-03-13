@@ -2190,5 +2190,8 @@ cruel
 instruct
 tease
 contradict
+naked
+tremendous
+cheer
 
 
