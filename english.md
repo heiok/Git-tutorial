@@ -2195,5 +2195,12 @@ tremendous
 cheer
 elementary
 bush
+sphere
+astonish
+lean
+shoulder
+sew
+stir
+become
 
 
