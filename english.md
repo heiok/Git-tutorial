@@ -2202,5 +2202,9 @@ shoulder
 sew
 stir
 become
+obvious
+gymnasium
+magnificent
+against
 
 
