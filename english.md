@@ -2210,5 +2210,10 @@ praise
 paragraph
 interest
 treat
+affect
+spoil
+produce
+soup
+participate
 
 
