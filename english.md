@@ -2225,5 +2225,8 @@ principle
 comrade
 parliament
 skilful
+occasion
+impossible
+voyage
 
 
