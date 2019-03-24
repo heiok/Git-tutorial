@@ -2228,5 +2228,10 @@ skilful
 occasion
 impossible
 voyage
+dialect
+dense
+firm
+actual
+regular
 
 
