@@ -2233,5 +2233,11 @@ dense
 firm
 actual
 regular
+doubt
+lag
+catalogue
+worship
+imitate
+acquire
 
 
