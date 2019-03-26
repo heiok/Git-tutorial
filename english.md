@@ -2239,5 +2239,14 @@ catalogue
 worship
 imitate
 acquire
+quarrel
+encourage
+oppose
+pray
+phenomenon
+spoon
+wealth
+arrow
+endure
 
 
