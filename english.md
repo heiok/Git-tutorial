@@ -2249,5 +2249,10 @@ wealth
 arrow
 endure
 deceive
+coarse
+fry
+satisfy
+adequate
+overseas
 
 
