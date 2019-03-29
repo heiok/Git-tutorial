@@ -2259,5 +2259,10 @@ cease
 anxious
 worthy
 contrary
+welfare
+crime
+sock
+plural
+deceive
 
 
