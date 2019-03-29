@@ -2254,5 +2254,10 @@ fry
 satisfy
 adequate
 overseas
+prize
+cease
+anxious
+worthy
+contrary
 
 
