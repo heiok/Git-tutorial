@@ -2266,5 +2266,10 @@ plural
 deceive
 various
 engage
+differ
+recognize
+kick
+canal
+indicate
 
 
