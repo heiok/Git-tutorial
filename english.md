@@ -2272,5 +2272,7 @@ kick
 canal
 indicate
 circunstance
-
+moral
+colony
+barrier
 
