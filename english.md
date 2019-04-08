@@ -2283,5 +2283,8 @@ despite
 arouse
 concern
 ceiling
+telescope
+wisdom
+astronaut
 
 
