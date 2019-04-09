@@ -2286,5 +2286,9 @@ ceiling
 telescope
 wisdom
 astronaut
+despite
+stomach
+principal
+arouse
 
 
