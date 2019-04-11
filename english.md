@@ -2292,5 +2292,14 @@ principal
 arouse
 plate
 avoid
+exert
+evident
+vocabulary
+fiction
+adolescent
+fun
+telescope
+delicate
+distinction
 
 
