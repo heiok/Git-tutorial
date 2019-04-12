@@ -2301,5 +2301,9 @@ fun
 telescope
 delicate
 distinction
+earnest
+react
+equivalent
+artificial
 
 
