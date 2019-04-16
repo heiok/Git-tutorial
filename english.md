@@ -2316,6 +2316,11 @@ chimney
 demonstrate
 arithmetic
 ripe
+pursue
+sculpture
+remedy
+crude
+inspire
 
 
 
