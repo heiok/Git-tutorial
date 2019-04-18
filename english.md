@@ -2323,5 +2323,10 @@ crude
 inspire
 dare
 combat
-
+fold
+wit
+contrary
+pension
+worthy
+behalf
 
