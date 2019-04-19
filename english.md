@@ -2329,4 +2329,10 @@ contrary
 pension
 worthy
 behalf
+exercise
+spiritual
+deceive
+companion
+axquaintance
+
 
