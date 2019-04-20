@@ -2333,6 +2333,7 @@ exercise
 spiritual
 deceive
 companion
-axquaintance
-
+acquaintance
+mutual
+presence
 
