@@ -2336,4 +2336,10 @@ companion
 acquaintance
 mutual
 presence
+illness
+lest
+dress
+settle
+conduct
+creature
 
