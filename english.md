@@ -2359,4 +2359,7 @@ pedestrian
 energetic
 diverse
 despite
+agony
+arouse
+telescope
 
