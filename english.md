@@ -2362,4 +2362,7 @@ despite
 agony
 arouse
 telescope
+energetic
+diverse
+pedestrian
 
