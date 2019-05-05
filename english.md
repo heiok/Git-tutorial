@@ -2374,4 +2374,5 @@ pension
 delicate
 distinction
 representative
+acquaintance
 
