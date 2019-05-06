@@ -2376,4 +2376,6 @@ distinction
 representative
 acquaintance
 transparent
+hesitate
+adequate
 
