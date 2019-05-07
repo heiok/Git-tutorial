@@ -2378,4 +2378,5 @@ acquaintance
 transparent
 hesitate
 adequate
+energetic
 
