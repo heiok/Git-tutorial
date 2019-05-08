@@ -2379,4 +2379,7 @@ transparent
 hesitate
 adequate
 energetic
+diverse
+transparent
+welfare
 
