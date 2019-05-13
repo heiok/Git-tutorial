@@ -1,4 +1,6 @@
 accurate
+wit
+accurate
 transparent
 accrate
 wit
