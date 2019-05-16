@@ -1,4 +1,7 @@
 transparent
+particularly
+miracle
+transparent
 lest
 accurate
 accurate
