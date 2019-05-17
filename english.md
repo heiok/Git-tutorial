@@ -1,3 +1,7 @@
+agony
+pedestrian
+funeral
+energetic
 transparent
 particularly
 miracle
