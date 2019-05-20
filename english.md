@@ -1,3 +1,4 @@
+transparent
 brand
 diverse
 accurate
