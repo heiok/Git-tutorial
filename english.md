@@ -1,3 +1,5 @@
+native
+representative
 academic
 transparent
 brand
