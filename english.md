@@ -1,3 +1,4 @@
+academic
 transparent
 brand
 diverse
