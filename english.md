@@ -1,3 +1,5 @@
+native
+transparent
 chimney
 accurate
 representative
