@@ -1,3 +1,5 @@
+humble
+accurate
 pension
 faculty
 treatment
