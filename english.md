@@ -1,3 +1,6 @@
+worthy
+transparent
+wit
 pension
 facility
 representative
