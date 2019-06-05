@@ -1,3 +1,5 @@
+diverse
+telescope
 concern
 flamingo
 contrary
