@@ -1,3 +1,5 @@
+representative
+transparent
 diverse
 despite
 diverse
