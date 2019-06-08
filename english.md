@@ -1,3 +1,6 @@
+accurate
+endure
+quarrel
 representative
 transparent
 diverse
