@@ -1,4 +1,7 @@
 diverse
+dialect
+plural
+diverse
 anxious
 diverse
 dialect
