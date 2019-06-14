@@ -1,4 +1,6 @@
 diverse
+native
+diverse
 dialect
 plural
 diverse
