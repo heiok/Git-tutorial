@@ -1,3 +1,7 @@
+dense
+dialect
+anxious
+plural
 diverse
 native
 diverse
