@@ -1,3 +1,7 @@
+treatment
+adequate
+dialect
+accurate
 dense
 dialect
 anxious
