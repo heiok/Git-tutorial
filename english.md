@@ -1,3 +1,9 @@
+prize
+transparent
+dialect
+accurate
+arouse
+anxious
 treatment
 adequate
 dialect
