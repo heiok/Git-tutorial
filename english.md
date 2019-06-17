@@ -1,3 +1,11 @@
+welfare
+comrade
+transparent
+accurate
+dense
+diverse
+dialect
+treatment
 prize
 transparent
 dialect
