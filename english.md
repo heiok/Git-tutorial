@@ -1,3 +1,8 @@
+satisfy
+delicate
+arouse
+distinction
+fold
 welfare
 comrade
 transparent
