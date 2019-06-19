@@ -1,3 +1,8 @@
+plural
+pension
+adequate
+cease
+fold
 satisfy
 delicate
 arouse
