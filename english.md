@@ -1,3 +1,7 @@
+distinction
+crime
+plural
+delicate
 plural
 pension
 adequate
