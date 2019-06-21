@@ -1,3 +1,7 @@
+transparent
+skilful
+satisfy
+pension
 distinction
 crime
 plural
