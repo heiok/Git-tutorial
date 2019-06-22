@@ -1,3 +1,7 @@
+phenomenon
+voyage
+cease
+principal
 transparent
 skilful
 satisfy
