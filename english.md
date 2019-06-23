@@ -1,3 +1,8 @@
+represrntative
+anxious
+lest
+accurate
+dialect
 phenomenon
 voyage
 cease
