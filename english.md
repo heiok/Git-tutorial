@@ -1,3 +1,9 @@
+accurate
+skilful
+dialect
+arouse
+anxious
+represemtative
 represrntative
 anxious
 lest
