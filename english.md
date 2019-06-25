@@ -1,3 +1,13 @@
+phenomenon
+principal
+principle
+arouse
+anxious
+representative
+skilful
+accurate
+dialect
+lest
 accurate
 skilful
 dialect
