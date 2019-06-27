@@ -1,3 +1,10 @@
+energetic
+occasion
+agony
+impossible
+delicate
+parliament
+pension
 phenomenon
 principal
 principle
