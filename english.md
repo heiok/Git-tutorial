@@ -1,3 +1,7 @@
+distinction
+colony
+pension
+occasion
 regular
 pedestrian
 coarse
