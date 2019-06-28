@@ -1,3 +1,10 @@
+regular
+pedestrian
+coarse
+energetic
+delicate
+pension
+colony
 energetic
 occasion
 agony
