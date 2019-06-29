@@ -1,3 +1,8 @@
+pedestrian
+particularly
+firm
+oppose
+coarse
 distinction
 colony
 pension
