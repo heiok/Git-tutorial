@@ -1,4 +1,10 @@
 diverse
+lest
+spoon
+encourage
+representative
+arouse
+diverse
 skilful
 representative
 catalogue
