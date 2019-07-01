@@ -1,3 +1,11 @@
+diverse
+skilful
+representative
+catalogue
+arouse
+treatment
+imitate
+acquire
 pedestrian
 particularly
 firm
