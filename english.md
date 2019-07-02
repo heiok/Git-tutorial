@@ -1,3 +1,8 @@
+distinction
+colony
+lest
+pension
+circumstance
 diverse
 lest
 spoon
