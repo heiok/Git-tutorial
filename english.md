@@ -1,3 +1,8 @@
+imitate
+fry
+occasion
+earnest
+impossible
 distinction
 colony
 lest
