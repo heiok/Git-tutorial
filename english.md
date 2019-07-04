@@ -1,3 +1,8 @@
+firm
+earnest
+pedestrian
+transparent
+fiction
 imitate
 fry
 occasion
