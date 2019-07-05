@@ -1,3 +1,10 @@
+impossible
+fry
+vacant
+representative
+astronaut
+acquire
+acqaintance
 firm
 earnest
 pedestrian
