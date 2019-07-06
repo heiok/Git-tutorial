@@ -1,3 +1,9 @@
+various
+treatment
+engage
+anxious
+wit
+arouse
 impossible
 fry
 vacant
