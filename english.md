@@ -1,3 +1,9 @@
+differ
+avoid
+dense
+recognize
+moral
+spoon
 various
 treatment
 engage
