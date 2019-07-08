@@ -1,3 +1,8 @@
+adequate
+fold
+pale
+prize
+behalf
 differ
 avoid
 dense
