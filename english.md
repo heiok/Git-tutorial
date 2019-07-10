@@ -1,3 +1,6 @@
+corresponding
+consume
+satisfy
 adequate
 fold
 pale
