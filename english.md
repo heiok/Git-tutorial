@@ -1,3 +1,8 @@
+moral
+plural
+earnest
+coarse
+wisdom
 corresponding
 consume
 satisfy
