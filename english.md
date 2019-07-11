@@ -1,3 +1,8 @@
+evident
+fry
+occasion
+acquire
+catalogue
 moral
 plural
 earnest
