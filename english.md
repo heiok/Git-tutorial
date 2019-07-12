@@ -1,3 +1,8 @@
+artificial
+spiritual
+cease
+moral
+impossible
 evident
 fry
 occasion
