@@ -1,3 +1,7 @@
+ceiling
+principal
+moral
+stomach
 artificial
 spiritual
 cease
