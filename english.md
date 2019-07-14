@@ -1,3 +1,6 @@
+moral
+adolescent
+illustrate
 ceiling
 principal
 moral
