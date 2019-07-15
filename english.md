@@ -1,4 +1,11 @@
 moral
+distinction
+artificial
+arithmetic
+energetic
+principal
+pension
+moral
 adolescent
 illustrate
 ceiling
