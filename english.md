@@ -1,3 +1,6 @@
+ceiling
+stomach
+plate
 moral
 distinction
 artificial
