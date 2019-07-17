@@ -1,3 +1,10 @@
+demonstrate
+illustrate
+colony
+adolescent
+fun
+barrier
+vocabulary
 ceiling
 stomach
 plate
