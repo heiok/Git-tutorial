@@ -1,3 +1,11 @@
+contrary
+pursue
+diverse
+equivalent
+representative
+parliament
+colony
+accurate
 demonstrate
 illustrate
 colony
