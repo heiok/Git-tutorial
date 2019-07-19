@@ -1,3 +1,9 @@
+dare
+treatment
+sculpture
+dialect
+lest
+anxious
 contrary
 pursue
 diverse
