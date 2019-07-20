@@ -1,3 +1,10 @@
+transparent
+transform
+combat
+fry
+demonstrate
+subsequent
+occasion
 dare
 treatment
 sculpture
