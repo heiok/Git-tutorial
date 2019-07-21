@@ -1,3 +1,7 @@
+companion
+principal
+doubt
+catalogue
 transparent
 transform
 combat
