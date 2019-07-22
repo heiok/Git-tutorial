@@ -1,3 +1,9 @@
+intense
+presence
+acquire
+firm
+regular
+worship
 companion
 principal
 doubt
