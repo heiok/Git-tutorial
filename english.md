@@ -1,3 +1,7 @@
+barrier
+hesitate
+colony
+earnest
 intense
 presence
 acquire
