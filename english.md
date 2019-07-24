@@ -1,3 +1,10 @@
+prize
+companion
+behalf
+fold
+mutual
+adequate
+impossible
 barrier
 hesitate
 colony
