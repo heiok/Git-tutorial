@@ -1,3 +1,6 @@
+spoon
+exercise
+coarse
 prize
 companion
 behalf
