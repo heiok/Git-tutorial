@@ -1,3 +1,8 @@
+acquire
+chimney
+worship
+native
+coarse
 spoon
 exercise
 coarse
