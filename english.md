@@ -1,3 +1,9 @@
+effort
+blanket
+creature
+settle
+spoon
+welfare
 acquire
 chimney
 worship
