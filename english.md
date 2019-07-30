@@ -1,3 +1,9 @@
+welfare
+conduct
+dress
+illness
+settle
+misery
 indication
 instinct
 exercise
