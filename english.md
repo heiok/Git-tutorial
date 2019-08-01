@@ -1,3 +1,8 @@
+distinction
+pension
+energetic
+principal
+attendant
 welfare
 conduct
 dress
