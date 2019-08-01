@@ -1,3 +1,7 @@
+instinct
+indication
+plural
+coarse
 distinction
 pension
 energetic
