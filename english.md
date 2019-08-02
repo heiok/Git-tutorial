@@ -1,3 +1,8 @@
+artificial
+moral
+spoon
+fry
+occasion
 instinct
 indication
 plural
