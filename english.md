@@ -1,3 +1,7 @@
+representative
+accurate
+spiritual
+diverse
 artificial
 moral
 spoon
