@@ -1,3 +1,10 @@
+adolescent
+skilful
+stomach
+academic
+treatment
+dialect
+illustrate
 representative
 accurate
 spiritual
