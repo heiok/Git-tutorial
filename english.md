@@ -1,3 +1,6 @@
+barrier
+colony
+ceiling
 adolescent
 skilful
 stomach
