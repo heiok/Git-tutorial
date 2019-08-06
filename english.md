@@ -1,3 +1,7 @@
+catalogue
+doubt
+lag
+imitate
 barrier
 colony
 ceiling
