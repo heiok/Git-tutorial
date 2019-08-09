@@ -1,3 +1,8 @@
+coarse
+demonstrate
+transparent
+acquire
+proficency
 worship
 earnest
 HongKong Riots
