@@ -1,3 +1,6 @@
+particularly
+miracle
+actual
 pedestrian
 proficiency
 coarse
