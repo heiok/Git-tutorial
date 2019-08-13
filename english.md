@@ -1,3 +1,7 @@
+adequate
+fold
+prize
+companion
 particularly
 miracle
 actual
