@@ -1,3 +1,5 @@
+moral
+humble
 exercise
 funeral
 lighthouse
