@@ -1,3 +1,5 @@
+exercise
+funeral
 lighthouse
 principal
 satisfy
