@@ -1,3 +1,10 @@
+creature
+conduct
+dress
+welfare
+settle
+illness
+blanket
 moral
 humble
 exercise
