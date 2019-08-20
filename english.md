@@ -1,3 +1,9 @@
+dense
+distinction
+pension
+delicate
+energetic
+occasion
 creature
 conduct
 dress
