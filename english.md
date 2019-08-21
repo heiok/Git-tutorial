@@ -1,3 +1,7 @@
+instinct
+indication
+barrier
+colony
 dense
 distinction
 pension
