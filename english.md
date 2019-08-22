@@ -1,3 +1,6 @@
+fry
+endure
+quarrel
 instinct
 indication
 barrier
