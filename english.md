@@ -1,3 +1,8 @@
+representative
+brand
+accurate
+concern
+diverse
 fry
 endure
 quarrel
