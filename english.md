@@ -1,3 +1,8 @@
+voyage
+regular
+cease
+despite
+firm
 treatment
 skilful
 dialect
