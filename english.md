@@ -1,3 +1,4 @@
+alone
 voyage
 regular
 cease
