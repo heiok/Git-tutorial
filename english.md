@@ -1,3 +1,6 @@
+facility
+acquire
+parliament
 earnest
 dense
 alone
