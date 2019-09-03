@@ -1,3 +1,4 @@
+plural
 contrary
 spoon
 catalogue
