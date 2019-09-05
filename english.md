@@ -1,3 +1,5 @@
+coarse
+transparent
 plural
 contrary
 spoon
