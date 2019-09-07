@@ -1,3 +1,5 @@
+principal
+moral
 aurora
 wanderlust
 coarse
