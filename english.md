@@ -1,3 +1,7 @@
+behalf
+fold
+adequate
+prize
 principal
 moral
 aurora
