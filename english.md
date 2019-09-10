@@ -1,3 +1,6 @@
+artificial
+barrier
+colony
 overseas
 adolescent
 illustrate
