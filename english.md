@@ -1,3 +1,5 @@
+chimney
+crime
 artificial
 barrier
 colony
