@@ -1,3 +1,9 @@
+worship
+distinction
+spiritual
+energetic
+occasion
+pension
 comrade
 react
 transparent
