@@ -1,3 +1,5 @@
+comrade
+react
 transparent
 transparent
 chimney
