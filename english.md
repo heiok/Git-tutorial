@@ -1,3 +1,6 @@
+pedwstrian
+wit
+stomach
 worship
 distinction
 spiritual
