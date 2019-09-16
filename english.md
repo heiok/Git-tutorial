@@ -1,4 +1,4 @@
-pedwstrian
+pedestrian
 wit
 stomach
 worship
