@@ -32,3 +32,8 @@ destory
 introduce
 philosopher
 possess
+advantage
+colleague
+drill
+steel
+
