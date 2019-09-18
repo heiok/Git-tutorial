@@ -1,3 +1,7 @@
+representative
+accurate
+impossible
+diverse
 actual
 pedestrian
 wit
