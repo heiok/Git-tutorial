@@ -1,3 +1,7 @@
+agony
+treatment
+skilful
+lest
 representative
 accurate
 impossible
