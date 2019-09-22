@@ -1,3 +1,7 @@
+acquaintance
+arouse
+anxious
+dialect
 transparent
 agony
 treatment
