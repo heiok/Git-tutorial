@@ -1,3 +1,5 @@
+demonstrate
+fry
 acquaintance
 arouse
 anxious
