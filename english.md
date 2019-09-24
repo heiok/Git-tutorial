@@ -1,3 +1,5 @@
+ceiling
+earnest
 demonstrate
 fry
 acquaintance
