@@ -1,3 +1,5 @@
+coarse
+pale
 ceiling
 earnest
 demonstrate
