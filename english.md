@@ -1,3 +1,4 @@
+companion
 tropical
 fiction
 acquire
