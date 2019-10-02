@@ -1,3 +1,5 @@
+circumstance
+astronaut
 principle
 graphviz
 companion
