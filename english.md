@@ -1,3 +1,7 @@
+moral
+dense
+pray
+oppose
 circumstance
 astronaut
 principle
