@@ -1,3 +1,5 @@
+colony
+barrier
 exercise
 avoid
 moral
