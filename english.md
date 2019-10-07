@@ -1,3 +1,10 @@
+conduct
+welfare
+encourage
+transparent
+settle
+dress
+illness
 colony
 barrier
 exercise
