@@ -1,3 +1,6 @@
+voyage
+cease
+spoon
 blanket
 conduct
 welfare
