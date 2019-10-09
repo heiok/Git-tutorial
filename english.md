@@ -1,3 +1,8 @@
+hesitate
+pile
+indication
+instinct
+effort
 voyage
 cease
 spoon
