@@ -1,3 +1,9 @@
+fold
+prize
+evident
+adequate
+behalf
+sock
 parliament
 hesitate
 pile
