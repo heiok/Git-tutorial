@@ -1,3 +1,6 @@
+engage
+wisdom
+various
 fold
 prize
 evident
