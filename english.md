@@ -1,3 +1,8 @@
+principal
+recognize
+differ
+corresponding
+consume
 engage
 wisdom
 various
