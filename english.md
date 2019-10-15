@@ -1,3 +1,5 @@
+worship
+arithmetic
 lag
 principal
 recognize
