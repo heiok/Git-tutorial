@@ -1,3 +1,6 @@
+catalogue
+doubt
+imitate
 worship
 arithmetic
 lag
