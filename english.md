@@ -1,3 +1,9 @@
+distinction
+academic
+pension
+energetic
+delicate
+contrary
 subsequent
 phenomenon
 catalogue
