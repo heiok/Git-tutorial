@@ -1,3 +1,5 @@
+ripe
+intense
 distinction
 academic
 pension
