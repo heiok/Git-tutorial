@@ -1,3 +1,6 @@
+inspire
+pursue
+crude
 ripe
 intense
 distinction
