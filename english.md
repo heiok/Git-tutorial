@@ -1,3 +1,7 @@
+representative
+dare
+coarse
+diverse
 inspire
 pursue
 crude
