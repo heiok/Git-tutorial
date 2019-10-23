@@ -1,3 +1,11 @@
+skilful
+occasion
+plate
+treatment
+remedy
+sculpture
+lest
+plural
 representative
 dare
 coarse
