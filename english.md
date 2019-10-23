@@ -1,3 +1,7 @@
+combat
+exert
+fun
+vocabulary
 skilful
 occasion
 plate
