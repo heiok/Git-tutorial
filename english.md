@@ -1,3 +1,6 @@
+equivalent
+accurate
+presence
 combat
 exert
 fun
