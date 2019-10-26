@@ -1,3 +1,7 @@
+transform
+tray
+temper
+earnest
 satisfy
 equivalent
 accurate
