@@ -1,3 +1,5 @@
+spiritual
+mutual
 stair
 transform
 tray
