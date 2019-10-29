@@ -1,3 +1,5 @@
+regular
+stomach
 spiritual
 mutual
 stair
