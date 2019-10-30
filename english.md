@@ -1,3 +1,5 @@
+dialect
+anxious
 regular
 stomach
 spiritual
