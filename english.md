@@ -1,3 +1,4 @@
+misery
 arouse
 firm
 concentric
