@@ -1,3 +1,4 @@
+telescope
 misery
 arouse
 firm
