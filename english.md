@@ -1,3 +1,7 @@
+demonstrate
+quarrel
+moral
+endure
 telescope
 misery
 arouse
