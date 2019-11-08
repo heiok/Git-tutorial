@@ -1,3 +1,9 @@
+particularly
+miracle
+colony
+humble
+barrier
+acquire
 reflection
 attendant
 demonstrate
