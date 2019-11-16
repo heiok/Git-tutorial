@@ -1,3 +1,4 @@
+companion
 penguin
 despite
 pedestrian
