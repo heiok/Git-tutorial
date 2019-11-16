@@ -1,3 +1,5 @@
+dense
+illustrate
 companion
 penguin
 despite
