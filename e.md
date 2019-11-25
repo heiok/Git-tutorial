@@ -1,3 +1,10 @@
+blanket
+welfare
+illness
+dress
+settle
+conduct
+creature
 satin
 exercise
 adequate
