@@ -1,3 +1,8 @@
+instinct
+indication
+brand
+wit
+coarse
 impossible
 worship
 blanket
