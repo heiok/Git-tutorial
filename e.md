@@ -1,3 +1,8 @@
+facility
+pension
+effort
+delicate
+energetic
 exception
 instinct
 indication
