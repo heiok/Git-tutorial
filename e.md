@@ -1,3 +1,5 @@
+acquaintance
+principal
 earnest
 lilac
 pine cone
