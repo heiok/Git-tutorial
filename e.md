@@ -1,3 +1,7 @@
+iterate
+loop
+traversal
+recursion
 acquaintance
 principal
 earnest
