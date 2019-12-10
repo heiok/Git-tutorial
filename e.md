@@ -1,3 +1,4 @@
+spiritual
 iterate
 loop
 traversal
