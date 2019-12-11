@@ -1,3 +1,5 @@
+pale
+stomach
 spiritual
 iterate
 loop
