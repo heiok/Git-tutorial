@@ -1,3 +1,4 @@
+comrade
 pale
 stomach
 spiritual
