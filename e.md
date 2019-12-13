@@ -1,3 +1,6 @@
+spoon
+agony
+accurate
 comrade
 pale
 stomach
