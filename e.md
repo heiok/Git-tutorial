@@ -1,3 +1,4 @@
+scholar
 occasion
 lollipop
 spoon
