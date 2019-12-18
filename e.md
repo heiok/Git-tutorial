@@ -1,3 +1,4 @@
+vacant
 moral
 scholar
 occasion
