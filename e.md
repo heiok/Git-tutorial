@@ -1,3 +1,5 @@
+barrier
+colony
 demonstrate
 bubble
 vacant
