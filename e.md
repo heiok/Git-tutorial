@@ -1,3 +1,6 @@
+astronaut
+dense
+ceiling
 pyramid
 egret
 christmas
