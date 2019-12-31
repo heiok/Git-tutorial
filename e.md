@@ -1,3 +1,8 @@
+pea
+Happy
+new
+year
+2020.1.1
 astronaut
 dense
 ceiling
