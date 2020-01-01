@@ -1,3 +1,6 @@
+avoid
+academic
+companion
 pea
 Happy
 new
