@@ -1,3 +1,7 @@
+catalogue
+imitate
+plural
+doubt
 circumstance
 parliament
 regular
