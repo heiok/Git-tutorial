@@ -1,3 +1,6 @@
+voyage
+cease
+arouse
 catalogue
 imitate
 plural
