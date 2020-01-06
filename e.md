@@ -1,3 +1,5 @@
+pine
+cone
 satisfy
 voyage
 cease
