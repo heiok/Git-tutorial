@@ -1,3 +1,6 @@
+principle
+pray
+oppose
 pine
 cone
 satisfy
