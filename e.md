@@ -1,3 +1,5 @@
+firm
+pedestrian
 principle
 pray
 oppose
