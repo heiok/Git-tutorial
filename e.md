@@ -1,3 +1,4 @@
+stair
 foam
 firm
 pedestrian
