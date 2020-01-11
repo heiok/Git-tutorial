@@ -1,3 +1,7 @@
+transparent
+exercise
+pile
+evident
 stair
 foam
 firm
