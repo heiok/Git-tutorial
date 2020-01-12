@@ -1,3 +1,7 @@
+minus
+plus
+multiply
+divided
 staircase
 transparent
 exercise
