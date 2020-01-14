@@ -1,3 +1,5 @@
+wisdom
+subsequent
 illness
 acquire
 conduct
