@@ -1,3 +1,12 @@
+illness
+acquire
+conduct
+settle
+blanket
+welfare
+creature
+encourage
+dress
 minus
 plus
 multiply
