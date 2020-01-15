@@ -1,3 +1,10 @@
+arithmetic
+indication
+fold
+instinct
+adequate
+prize
+behalf
 wisdom
 subsequent
 illness
