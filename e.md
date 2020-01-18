@@ -1,3 +1,7 @@
+consume
+corresponding
+sock
+coarse
 intense
 arithmetic
 indication
