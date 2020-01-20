@@ -1,3 +1,10 @@
+differ
+quarrel
+recognize
+effort
+phenomenon
+telescope
+endure
 various
 engage
 contrary
