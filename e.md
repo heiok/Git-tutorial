@@ -1,3 +1,5 @@
+satin
+synchronized
 differ
 quarrel
 recognize
