@@ -1,3 +1,9 @@
+pension
+inspire
+crude
+pursue
+energetic
+delicate
 spiritual
 ripe
 satin
