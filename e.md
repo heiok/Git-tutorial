@@ -1,3 +1,7 @@
+dare
+worship
+illustrate
+stomach
 pension
 inspire
 crude
