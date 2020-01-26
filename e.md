@@ -1,3 +1,7 @@
+representative
+remedy
+diverse
+sculpture
 foam
 dare
 worship
