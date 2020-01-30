@@ -1,3 +1,6 @@
+equivalent
+concern
+earnest
 vocabulary
 fun
 humble
