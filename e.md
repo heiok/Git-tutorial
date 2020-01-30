@@ -1,3 +1,7 @@
+vocabulary
+fun
+humble
+exert
 plate
 actual
 treatment
