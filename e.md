@@ -1,3 +1,9 @@
+despite
+transform
+demonstrate
+tray
+temper
+mutual
 adolescent
 equivalent
 concern
