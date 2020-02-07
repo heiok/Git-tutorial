@@ -1,3 +1,5 @@
+misery
+wit
 uneasy
 exploit
 efficient
