@@ -1,3 +1,8 @@
+uneasy
+exploit
+efficient
+stock
+partner
 distinction
 particularly
 miracle
