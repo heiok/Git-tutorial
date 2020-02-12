@@ -1,3 +1,7 @@
+attendant
+dense
+barrier
+colony
 delicious
 proficiency
 moral
