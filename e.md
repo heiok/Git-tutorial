@@ -1,3 +1,10 @@
+react
+cease
+funeral
+ceiling
+voyage
+spoon
+companion
 junior
 idyllic
 puffy
