@@ -2994,4 +2994,6 @@ energetic
 diverse
 transparent
 welfare
+crime  
+acquaintance  
 
