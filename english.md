@@ -1,3 +1,5 @@
+pale
+artificial
 interest
 coronavirus
 parliament
