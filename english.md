@@ -1,3 +1,5 @@
+episode
+principle
 pale
 artificial
 interest
