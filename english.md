@@ -1,3 +1,5 @@
+exercise
+facility
 episode
 principle
 pale
