@@ -1,4 +1,4 @@
-proficicency
+proficiency
 foam
 abyss
 exercise
