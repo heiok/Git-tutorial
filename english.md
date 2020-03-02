@@ -1,3 +1,12 @@
+welfare
+conduct
+illness
+settle
+creature
+brand
+dress
+blanket
+worthy
 proficiency
 foam
 abyss
