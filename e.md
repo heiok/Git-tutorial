@@ -1,3 +1,6 @@
+principal 
+spiritual  
+pedestrian  
 indication  
 instinct  
 lag  
