@@ -1,3 +1,5 @@
+phenomenon
+stomach
 principal 
 spiritual  
 pedestrian  
