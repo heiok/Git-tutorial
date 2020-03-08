@@ -1,3 +1,8 @@
+regular
+anxious
+dialect
+arouse
+agony
 phenomenon
 stomach
 principal 
