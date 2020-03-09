@@ -1,3 +1,4 @@
+exposure
 lollipop
 regular
 anxious
