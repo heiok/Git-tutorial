@@ -1,3 +1,6 @@
+comrade
+vacant
+effort
 exposure
 lollipop
 regular
