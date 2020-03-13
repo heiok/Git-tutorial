@@ -1,3 +1,5 @@
+staircase
+credential
 distinction
 comrade
 vacant
