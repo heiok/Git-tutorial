@@ -1,3 +1,5 @@
+eyebrow
+cheek
 hesitate
 staircase
 credential
