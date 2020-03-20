@@ -1,3 +1,6 @@
+acquire
+miracle
+particularly
 assignees
 satisfy
 firm
