@@ -1,3 +1,4 @@
+transparent
 lampshade
 acquire
 miracle
