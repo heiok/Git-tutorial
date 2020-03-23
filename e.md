@@ -1,3 +1,6 @@
+catalogue
+doubt
+imitate
 transparent
 lampshade
 acquire
