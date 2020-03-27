@@ -1,3 +1,5 @@
+coarse
+dense
 parliament
 behalf
 fold
