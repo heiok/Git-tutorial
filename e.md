@@ -1,3 +1,4 @@
+avoid
 goblet
 astronaut
 coarse
