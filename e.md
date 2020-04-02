@@ -1,3 +1,8 @@
+cease
+energetic
+delicate
+pension
+voyage
 illustrate
 avoid
 goblet
