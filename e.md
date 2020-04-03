@@ -1,3 +1,5 @@
+avoid
+actual
 cease
 energetic
 delicate
