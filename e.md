@@ -1,3 +1,6 @@
+endure
+quarrel
+circumstance
 avoid
 actual
 cease
