@@ -1,3 +1,7 @@
+representative
+diverse
+companion
+telescope
 endure
 quarrel
 circumstance
