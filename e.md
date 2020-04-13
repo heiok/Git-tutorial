@@ -1,3 +1,9 @@
+oppose
+adolescent
+pray
+evident
+subsequent
+impossible
 concentric
 Celsius
 earnest
