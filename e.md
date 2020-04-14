@@ -1,3 +1,4 @@
+worship
 oppose
 adolescent
 pray
