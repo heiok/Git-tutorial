@@ -1,3 +1,5 @@
+wisdom
+spiritual
 arithmetic
 belly
 architecture
