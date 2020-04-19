@@ -1,3 +1,5 @@
+stomach
+exercise
 wisdom
 spiritual
 arithmetic
