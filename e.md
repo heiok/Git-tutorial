@@ -1,3 +1,6 @@
+wit
+moral
+concern
 stomach
 exercise
 wisdom
