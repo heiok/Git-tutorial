@@ -1,3 +1,12 @@
+dress
+encourage
+welfare
+conduct
+blanket
+creature
+humble
+illness
+settle
 wit
 moral
 concern
