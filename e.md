@@ -1,3 +1,5 @@
+consume
+barrier
 corresponding
 colony
 avoid
