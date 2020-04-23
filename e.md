@@ -1,3 +1,9 @@
+corresponding
+colony
+avoid
+indication
+instinct
+phenomenon
 despite
 dress
 encourage
