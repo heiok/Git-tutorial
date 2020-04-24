@@ -1,3 +1,5 @@
+ripe
+sock
 spoon
 consume
 barrier
