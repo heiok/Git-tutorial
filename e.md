@@ -1,3 +1,8 @@
+pursue
+inspire
+crude
+various
+engage
 ripe
 sock
 spoon
