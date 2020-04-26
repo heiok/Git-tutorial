@@ -1,3 +1,6 @@
+dare
+differ
+recognize
 pursue
 inspire
 crude
