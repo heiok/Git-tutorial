@@ -1,3 +1,7 @@
+demonstrate
+remedy
+sculpture
+presence
 Q-tip
 conference
 dare
