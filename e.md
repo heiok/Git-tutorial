@@ -1,3 +1,5 @@
+pedestrian
+accurate
 effort
 combat
 demonstrate
