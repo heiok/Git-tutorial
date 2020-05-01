@@ -1,3 +1,5 @@
+effort
+combat
 demonstrate
 remedy
 sculpture
