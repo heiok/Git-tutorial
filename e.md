@@ -1,3 +1,6 @@
+fun
+vocabulary
+exert
 plate
 react
 distinction
