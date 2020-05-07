@@ -1,3 +1,6 @@
+mutual
+parliament
+equivalent
 fun
 vocabulary
 exert
