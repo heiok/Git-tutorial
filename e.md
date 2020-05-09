@@ -1,3 +1,7 @@
+temper
+tray
+transform
+arouse
 entropy
 mutual
 parliament
