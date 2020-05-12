@@ -1,3 +1,4 @@
+regular
 dense
 temper
 tray
