@@ -1,3 +1,4 @@
+acquaintance
 regular
 dense
 temper
