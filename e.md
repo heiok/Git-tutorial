@@ -1,3 +1,4 @@
+misery
 acquaintance
 regular
 dense
