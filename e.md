@@ -1,3 +1,7 @@
+overseas
+cease
+voyage
+pale
 lag
 misery
 acquaintance
