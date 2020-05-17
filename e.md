@@ -1,3 +1,4 @@
+confidence
 overseas
 cease
 voyage
