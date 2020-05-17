@@ -1,3 +1,5 @@
+crime
+faculty
 confidence
 overseas
 cease
