@@ -1,3 +1,4 @@
+attendant
 funeral
 occasion
 foundry
