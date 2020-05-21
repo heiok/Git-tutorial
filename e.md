@@ -1,3 +1,6 @@
+dialect
+anxious
+companion
 attendant
 funeral
 occasion
