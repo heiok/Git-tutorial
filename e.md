@@ -1,4 +1,4 @@
-awfuly
+awfully
 firm
 specification
 artificial
