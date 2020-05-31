@@ -1,3 +1,6 @@
+agony
+facility
+stomach
 transparent
 academic
 spiritual
