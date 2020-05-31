@@ -1,3 +1,6 @@
+transparent
+academic
+spiritual
 democratic
 satisfy
 puffy
