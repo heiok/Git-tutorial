@@ -1,3 +1,5 @@
+principal
+vacant
 agony
 facility
 stomach
