@@ -1,3 +1,8 @@
+fold
+adequate
+behalf
+deceive
+prize
 worthy
 principal
 vacant
