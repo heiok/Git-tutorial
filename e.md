@@ -1,3 +1,6 @@
+comrade
+illustrate
+actual
 exercise
 avoid
 coarse
