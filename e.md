@@ -1,3 +1,12 @@
+phenomenon
+creature
+welfare
+conduct
+illness
+fiction
+blanket
+dress
+settle
 comrade
 illustrate
 actual
