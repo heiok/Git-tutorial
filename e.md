@@ -1,3 +1,8 @@
+energetic
+delicate
+pension
+instinct
+indication
 catalogue
 phenomenon
 creature
