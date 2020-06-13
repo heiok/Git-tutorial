@@ -1,3 +1,5 @@
+representative
+diverse
 manufacture
 energetic
 delicate
