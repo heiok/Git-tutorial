@@ -1,3 +1,5 @@
+endure
+quarrel
 particularly
 miracle
 catalogue
