@@ -1,3 +1,6 @@
+earnest
+parliament
+fry
 endure
 quarrel
 particularly
