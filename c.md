@@ -1,3 +1,4 @@
+telescope
 earnest
 parliament
 fry
