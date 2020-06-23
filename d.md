@@ -1,3 +1,5 @@
+dense
+adolescent
 diagnostic
 treatment
 skilful
