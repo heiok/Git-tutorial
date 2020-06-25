@@ -1,4 +1,4 @@
-astronaunt
+astronaut
 
 agricultural
 
