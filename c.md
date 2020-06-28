@@ -1,3 +1,7 @@
+cease
+moral
+voyage
+spoon
 telescope
 earnest
 parliament
