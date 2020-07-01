@@ -1,3 +1,5 @@
+barrier
+colony
 cease
 moral
 voyage
