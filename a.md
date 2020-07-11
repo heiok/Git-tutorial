@@ -1,3 +1,7 @@
+arouse
+
+humble
+
 independence
 
 patience
