@@ -1,3 +1,5 @@
+intense
+spiritual
 immigration
 concern
 companion
