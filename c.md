@@ -1,3 +1,4 @@
+regular
 intense
 spiritual
 immigration
