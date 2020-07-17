@@ -1,3 +1,7 @@
+arithmetic
+pray
+pile
+oppose
 rapidly
 stomach
 evident
