@@ -1,3 +1,4 @@
+wisdom
 regular
 intense
 spiritual
