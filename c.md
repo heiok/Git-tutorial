@@ -1,3 +1,14 @@
+consume
+conduct
+corresponding
+welfare
+illness
+dress
+creature
+blanket
+settle
+encourage
+ripe
 consulate
 wisdom
 regular
