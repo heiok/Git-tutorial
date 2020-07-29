@@ -1,3 +1,6 @@
+inspire
+crude
+pursue
 react
 arithmetic
 pray
