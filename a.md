@@ -1,3 +1,9 @@
+particularly
+indication
+instinct
+miracle
+acquaintance
+dare
 exercise
 
 phenomenon
