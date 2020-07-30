@@ -1,3 +1,5 @@
+firm
+parliament
 lag
 regular
 subsequent
