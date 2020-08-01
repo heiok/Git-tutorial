@@ -1,3 +1,8 @@
+pale
+engage
+distinction
+various
+presence
 firm
 parliament
 lag
