@@ -1,3 +1,7 @@
+differ
+recognize
+remedy
+sculpture
 pale
 engage
 distinction
