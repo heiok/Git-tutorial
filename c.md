@@ -1,3 +1,4 @@
+combat
 consume
 conduct
 corresponding
