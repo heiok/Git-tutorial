@@ -1,3 +1,6 @@
+crime
+satisfy
+transparent
 anxious
 dialect
 sock
