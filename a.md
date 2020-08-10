@@ -1,3 +1,4 @@
+effort
 crime
 satisfy
 transparent
