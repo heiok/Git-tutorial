@@ -1,3 +1,6 @@
+actual
+exert
+adequate
 differ
 recognize
 remedy
