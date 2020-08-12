@@ -1,3 +1,7 @@
+cease
+voyage
+plate
+mutual
 effort
 crime
 satisfy
