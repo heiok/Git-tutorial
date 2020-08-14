@@ -1,3 +1,5 @@
+equivalent
+academic
 cease
 voyage
 plate
