@@ -1,3 +1,6 @@
+coarse
+faculty
+illustrate
 actual
 exert
 adequate
