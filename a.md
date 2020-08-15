@@ -1,3 +1,7 @@
+artificial
+tray
+temper
+transform
 equivalent
 academic
 cease
