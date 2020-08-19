@@ -1,3 +1,7 @@
+funeral
+energetic
+delicate
+pension
 zodiac
 overseas
 dense
