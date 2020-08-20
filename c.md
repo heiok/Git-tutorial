@@ -1,3 +1,4 @@
+component
 funeral
 energetic
 delicate
