@@ -1,3 +1,5 @@
+diverse
+representative
 foundry
 fabless
 misery
