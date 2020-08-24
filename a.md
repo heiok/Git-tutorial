@@ -1,3 +1,5 @@
+agony
+spiritual
 architecture
 artificial
 tray
