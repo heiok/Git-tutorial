@@ -1,3 +1,9 @@
+pedestrian
+skillful
+treatment
+companion
+vacant
+lest
 diverse
 representative
 foundry
