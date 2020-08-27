@@ -1,3 +1,5 @@
+catalogue
+earnest
 coarse
 faculty
 illustrate
