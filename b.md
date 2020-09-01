@@ -1,3 +1,7 @@
+facility
+endure
+fry
+quarrel
 catalogue
 earnest
 coarse
