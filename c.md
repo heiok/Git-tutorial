@@ -1,3 +1,6 @@
+deceive
+telescope
+adolescent
 satin
 midday
 principal
