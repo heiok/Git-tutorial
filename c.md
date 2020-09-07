@@ -1,3 +1,4 @@
+moral
 immune
 comrade
 deceive
