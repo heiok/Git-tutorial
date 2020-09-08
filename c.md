@@ -1,3 +1,4 @@
+capitalism
 moral
 immune
 comrade
