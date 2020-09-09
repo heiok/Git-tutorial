@@ -1,3 +1,5 @@
+barrier
+colony
 worthy
 spoon
 facility
