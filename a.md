@@ -1,3 +1,9 @@
+conduct
+illness
+welfare
+creature
+blanket
+dress
 arouse
 exercise
 update at zhuhai hospital
