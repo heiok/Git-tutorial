@@ -1,3 +1,5 @@
+inquiry
+efficient
 conduct
 illness
 welfare
