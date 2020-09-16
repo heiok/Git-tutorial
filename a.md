@@ -1,3 +1,5 @@
+indication
+instinct
 inquiry
 efficient
 conduct
