@@ -1,3 +1,5 @@
+dense
+regular
 demonstrate
 pedestrian
 skillful
