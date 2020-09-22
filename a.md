@@ -1,3 +1,5 @@
+astronaut
+worship
 accurate
 indication
 instinct
