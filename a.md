@@ -1,3 +1,4 @@
+period
 astronaut
 worship
 accurate
