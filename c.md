@@ -1,3 +1,6 @@
+nap
+initiative
+desent
 capitalism
 moral
 immune
