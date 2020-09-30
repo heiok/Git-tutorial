@@ -1,3 +1,4 @@
+effort
 inspire
 crude
 pursue
