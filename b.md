@@ -1,3 +1,7 @@
+subsequent
+stomach
+firm
+spiritual
 fatal
 regular
 potential
