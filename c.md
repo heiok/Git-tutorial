@@ -1,3 +1,5 @@
+intense
+companion
 circumstance
 lag
 humble
