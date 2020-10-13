@@ -1,3 +1,8 @@
+spite
+breeze
+mall
+initiative
+scratch
 placid
 subsequent
 stomach
