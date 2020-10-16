@@ -1,3 +1,5 @@
+acquaintance
+avoid
 guildline
 concerned
 refrain
