@@ -1,3 +1,5 @@
+pale
+dialect
 anxious
 arithmetic
 transparent
