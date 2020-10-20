@@ -1,3 +1,6 @@
+pile
+pedestrian
+satisfy
 intense
 companion
 circumstance
