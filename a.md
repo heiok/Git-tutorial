@@ -1,3 +1,7 @@
+occasion
+wisdom
+parliament
+demonstrate
 oppose
 adequate
 illustrate
