@@ -1,3 +1,7 @@
+oppose
+adequate
+illustrate
+pray
 pale
 dialect
 anxious
