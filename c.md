@@ -1,3 +1,5 @@
+miracle
+particularly
 coarse
 pile
 pedestrian
