@@ -1,3 +1,6 @@
+phenomenon
+academic
+principle
 cooperation
 miracle
 particularly
