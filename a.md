@@ -1,3 +1,7 @@
+overseas
+energetic
+pension
+delicate
 naminee
 occasion
 wisdom
