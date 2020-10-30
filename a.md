@@ -1,3 +1,7 @@
+crime
+inspire
+crude
+pursue
 distinction
 ripe
 overseas
