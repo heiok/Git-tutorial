@@ -1,3 +1,9 @@
+dare
+corresponding
+diverse
+exercise
+representative
+consume
 crime
 inspire
 crude
