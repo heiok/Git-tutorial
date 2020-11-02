@@ -1,3 +1,12 @@
+illness
+settle
+welfare
+conduct
+dress
+creature
+encourage
+blanket
+dense
 phenomenon
 academic
 principle
