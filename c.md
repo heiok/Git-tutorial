@@ -1,3 +1,5 @@
+instinct
+indication
 illness
 settle
 welfare
