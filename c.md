@@ -1,3 +1,6 @@
+remedy
+earnest
+sculpture
 instinct
 indication
 illness
