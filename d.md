@@ -1,3 +1,5 @@
+combat
+sock
 dependence
 despite
 vocabulary
