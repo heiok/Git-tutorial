@@ -1,3 +1,8 @@
+voyage
+engage
+cease
+spoon
+various
 lest
 skillful
 treatment
