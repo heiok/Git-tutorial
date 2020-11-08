@@ -1,3 +1,6 @@
+artificial
+differ
+recognize
 effort
 inspire
 crude
