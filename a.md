@@ -1,3 +1,9 @@
+adolescent
+endure
+catalogue
+vacant
+arouse
+quarrel
 voyage
 engage
 cease
