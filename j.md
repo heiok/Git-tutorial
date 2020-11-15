@@ -1,3 +1,7 @@
+mutual
+moral
+alternating
+
 fry
 material
 
