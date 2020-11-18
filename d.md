@@ -1,3 +1,7 @@
+exert
+telescope
+colony
+barrier
 combat
 sock
 dependence
