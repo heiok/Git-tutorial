@@ -1,3 +1,7 @@
+stomach
+spiritual
+funeral
+equivalent
 mutual
 moral
 alternating
