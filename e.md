@@ -1,3 +1,4 @@
+effort
 poised
 artificial
 differ
