@@ -1,3 +1,8 @@
+tray
+transform
+misery
+wit
+temper
 exert
 telescope
 colony
