@@ -1,3 +1,5 @@
+companion
+fiction
 agony
 plate
 alternating
