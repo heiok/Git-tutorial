@@ -1,3 +1,4 @@
+repetition
 principal
 residual
 faculty
