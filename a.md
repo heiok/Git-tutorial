@@ -1,3 +1,5 @@
+attendant
+comrade
 avoid
 accurate
 companion
