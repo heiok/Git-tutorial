@@ -1,3 +1,5 @@
+particularly
+miracle
 placid
 breaststroke
 repetition
