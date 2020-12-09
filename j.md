@@ -1,3 +1,5 @@
+firmware
+adapter
 stomach
 spiritual
 funeral
