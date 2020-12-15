@@ -1,3 +1,5 @@
+concern
+pedestrian
 worship
 congratulation
 deceive
