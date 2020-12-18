@@ -1,3 +1,5 @@
+legal
+legacy
 particularly
 miracle
 placid
