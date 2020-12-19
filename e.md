@@ -1,3 +1,4 @@
+exercise
 facility
 effort
 poised
