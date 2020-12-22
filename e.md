@@ -1,3 +1,8 @@
+welfare
+illness
+creature
+voyage
+dress
 exercise
 facility
 effort
