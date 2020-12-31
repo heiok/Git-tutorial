@@ -1,3 +1,5 @@
+potential
+decent
 transparent
 indication
 instinct
