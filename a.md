@@ -1,3 +1,7 @@
+acquaintance
+anxious
+dialect
+spiritual
 adequate
 satisfy
 2020.12.29 Tangjia Talent apartment Bye ！
