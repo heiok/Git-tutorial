@@ -1,3 +1,6 @@
+potential
+cite
+refrain
 acquaintance
 anxious
 dialect
