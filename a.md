@@ -1,3 +1,6 @@
+acting
+lobby
+resort
 potential
 cite
 refrain
