@@ -1,3 +1,6 @@
+pale
+circumstance
+subsquent
 illustrate
 concern
 pedestrian
