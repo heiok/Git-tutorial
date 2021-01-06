@@ -1,3 +1,7 @@
+intense
+energetic
+delicate
+pension
 acting
 lobby
 resort
