@@ -1,3 +1,8 @@
+effort
+treatment
+skilful
+academic
+lest
 pale
 circumstance
 subsquent
