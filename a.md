@@ -1,3 +1,5 @@
+avoid
+companion
 occasion
 intense
 energetic
