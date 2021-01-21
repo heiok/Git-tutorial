@@ -1,3 +1,7 @@
+pile
+particularly
+miracle
+crime
 overseas
 spoon
 effort
