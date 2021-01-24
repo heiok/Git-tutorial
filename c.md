@@ -1,3 +1,5 @@
+wisdom
+moral
 pile
 particularly
 miracle
