@@ -1,3 +1,6 @@
+oppose
+adolescent
+pray
 insist
 arithmetic
 avoid
