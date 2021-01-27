@@ -1,3 +1,6 @@
+colony
+regular
+barrier
 oppose
 adolescent
 pray
