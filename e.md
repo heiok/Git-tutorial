@@ -1,3 +1,5 @@
+endure
+quarrel
 earnest
 parliament
 evident
