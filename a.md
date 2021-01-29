@@ -1,3 +1,5 @@
+phenomenon
+dense
 colony
 regular
 barrier
