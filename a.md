@@ -1,3 +1,9 @@
+artificial
+catalogue
+ripe
+crude
+pursue
+inspire
 phenomenon
 dense
 colony
