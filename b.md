@@ -1,3 +1,7 @@
+dare
+wit
+principle
+telescope
 pyramid
 bifurcation
 infinity
