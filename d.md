@@ -1,3 +1,5 @@
+perpheral
+determine
 seprate
 demonstrate
 grid
