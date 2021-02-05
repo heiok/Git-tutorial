@@ -1,3 +1,6 @@
+presence
+vacant
+accurate
 dare
 wit
 principle
