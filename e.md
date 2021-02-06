@@ -1,3 +1,4 @@
+exercise
 endure
 quarrel
 earnest
