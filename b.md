@@ -1,3 +1,10 @@
+remedy
+sculpture
+faculty
+blanket
+conduct
+creature
+encourage
 rhythm
 presence
 vacant
