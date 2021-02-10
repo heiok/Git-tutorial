@@ -1,3 +1,7 @@
+instinct
+indication
+pedestrian
+agony
 remedy
 sculpture
 faculty
