@@ -1,3 +1,4 @@
+proficiency
 perpheral
 determine
 seprate
