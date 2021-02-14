@@ -1,3 +1,8 @@
+stomach
+engage
+various
+spiritual
+sock
 instinct
 indication
 pedestrian
