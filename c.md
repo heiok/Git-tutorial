@@ -1,3 +1,5 @@
+differ
+recognize
 combat
 ripe
 corresponding
