@@ -1,3 +1,4 @@
+firework
 exercise
 endure
 quarrel
