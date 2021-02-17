@@ -1,3 +1,5 @@
+dogecoin
+decrease
 proficiency
 perpheral
 determine
