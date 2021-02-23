@@ -1,3 +1,5 @@
+ripe
+lag
 firmware
 adapter
 stomach
