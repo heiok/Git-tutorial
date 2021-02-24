@@ -1,3 +1,5 @@
+exert
+avoid
 firework
 exercise
 endure
