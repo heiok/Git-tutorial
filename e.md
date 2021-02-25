@@ -1,3 +1,5 @@
+equivalent
+parliament
 exert
 avoid
 firework
