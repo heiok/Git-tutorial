@@ -1,3 +1,5 @@
+misery
+actual
 plate
 separate
 firm
