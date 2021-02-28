@@ -1,3 +1,6 @@
+tray
+temper
+transform
 companion
 mutual
 funeral
