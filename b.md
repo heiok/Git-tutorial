@@ -1,3 +1,6 @@
+worship
+facility
+demonstrate
 misery
 actual
 plate
