@@ -1,3 +1,5 @@
+worthy
+concern
 comrade
 tray
 temper
