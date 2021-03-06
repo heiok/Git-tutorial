@@ -1,3 +1,7 @@
+deceive
+particularly
+miracle
+transparent
 worthy
 concern
 comrade
