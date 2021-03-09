@@ -1,3 +1,4 @@
+nicehash
 artificial
 catalogue
 ripe
