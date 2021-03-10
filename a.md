@@ -1,3 +1,5 @@
+attendant
+adequate
 nicehash
 artificial
 catalogue
