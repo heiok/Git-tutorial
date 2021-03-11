@@ -1,3 +1,4 @@
+profitability
 attendant
 adequate
 nicehash
