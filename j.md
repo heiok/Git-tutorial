@@ -1,3 +1,4 @@
+wallet
 ripe
 lag
 firmware
