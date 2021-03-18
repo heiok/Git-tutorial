@@ -1,3 +1,8 @@
+anxious
+phenomenon
+energetic
+delicate
+pension
 react
 profitability
 attendant
