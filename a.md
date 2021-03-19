@@ -1,3 +1,4 @@
+astronaut
 anxious
 phenomenon
 energetic
