@@ -1,3 +1,5 @@
+arouse
+acquaintance
 astronaut
 anxious
 phenomenon
