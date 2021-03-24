@@ -1,3 +1,4 @@
+pale
 lest
 skilful
 treatment
