@@ -1,3 +1,5 @@
+spiritual
+stomach
 occasion
 cozy
 react
