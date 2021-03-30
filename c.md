@@ -1,3 +1,5 @@
+conduct
+creature
 spiritual
 stomach
 occasion
