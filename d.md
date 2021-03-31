@@ -1,3 +1,5 @@
+indication
+instinct
 dogecoin
 decrease
 proficiency
