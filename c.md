@@ -1,3 +1,4 @@
+regular
 conduct
 creature
 spiritual
