@@ -1,3 +1,6 @@
+barrier
+colony
+adolescent
 proficiency
 humble
 dense
