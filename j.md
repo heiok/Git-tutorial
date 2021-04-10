@@ -1,3 +1,4 @@
+fry
 wallet
 ripe
 lag
