@@ -1,3 +1,7 @@
+evident
+companion
+wit
+overseas
 polar
 barrier
 colony
