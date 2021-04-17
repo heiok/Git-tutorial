@@ -1,3 +1,5 @@
+accurate
+demonstrate
 overseas
 satin
 moral
