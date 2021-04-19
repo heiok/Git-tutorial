@@ -1,3 +1,5 @@
+spiral
+evident
 evident
 accurate
 demonstrate
