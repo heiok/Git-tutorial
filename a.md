@@ -1,3 +1,7 @@
+miracle
+particularly
+telescope
+arithmetic
 avoid
 parliament
 react
