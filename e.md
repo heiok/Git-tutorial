@@ -1,3 +1,4 @@
+effort
 particularly
 endure
 quarrel
