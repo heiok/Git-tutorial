@@ -1,3 +1,4 @@
+puffy
 fry
 wallet
 ripe
