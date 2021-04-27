@@ -1,3 +1,5 @@
+artificial
+dense
 miracle
 particularly
 telescope
