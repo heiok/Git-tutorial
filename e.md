@@ -1,3 +1,4 @@
+wisdom
 evident
 effort
 particularly
