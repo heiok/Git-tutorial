@@ -1,3 +1,5 @@
+vacant
+firm
 catalogue
 spiral
 evident
