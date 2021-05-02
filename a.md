@@ -1,3 +1,4 @@
+vacant
 oppose
 pray
 artificial
