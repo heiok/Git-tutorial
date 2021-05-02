@@ -1,3 +1,5 @@
+oppose
+pray
 artificial
 dense
 miracle
