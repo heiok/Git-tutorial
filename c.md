@@ -1,3 +1,9 @@
+lag
+pedestrian
+overseas
+pray
+phenomenon
+actual
 vacant
 firm
 catalogue
