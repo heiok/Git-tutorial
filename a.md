@@ -1,3 +1,7 @@
+agony
+crude
+inspire
+pursue
 vacant
 oppose
 pray
