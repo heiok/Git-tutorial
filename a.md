@@ -1,3 +1,6 @@
+faculty
+react
+evident
 agony
 crude
 inspire
