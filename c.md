@@ -1,3 +1,6 @@
+pursue
+pray
+evident
 lag
 pedestrian
 overseas
