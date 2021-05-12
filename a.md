@@ -1,3 +1,8 @@
+architecture
+presence
+corresponding
+principle
+consume
 faculty
 react
 evident
