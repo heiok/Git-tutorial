@@ -1,3 +1,4 @@
+council
 pursue
 pray
 evident
