@@ -1,3 +1,7 @@
+fiction
+illustrate
+sculpture
+remedy
 architecture
 presence
 corresponding
