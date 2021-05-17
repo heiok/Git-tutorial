@@ -1,3 +1,6 @@
+creature
+conduct
+encourage
 evident
 fiction
 transparent
