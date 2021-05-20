@@ -1,3 +1,6 @@
+adequate
+instinct
+principal
 fiction
 illustrate
 sculpture
