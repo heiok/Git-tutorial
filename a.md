@@ -1,3 +1,4 @@
+vacant
 adequate
 instinct
 principal
