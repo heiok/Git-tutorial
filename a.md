@@ -1,3 +1,8 @@
+avoid
+satisfy
+recognize
+differ
+worship
 vacant
 adequate
 instinct
