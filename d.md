@@ -1,3 +1,8 @@
+despite
+delicate
+mutual
+pension
+energetic
 district
 dare
 distinction
