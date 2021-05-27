@@ -1,3 +1,5 @@
+pray
+despite
 despite
 delicate
 mutual
