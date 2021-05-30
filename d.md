@@ -1,3 +1,7 @@
+lest
+treatment
+demonstrate
+skillful
 pray
 despite
 despite
