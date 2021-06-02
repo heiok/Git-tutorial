@@ -1,3 +1,6 @@
+exert
+misery
+mutual
 evident
 engage
 fiction
