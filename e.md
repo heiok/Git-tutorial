@@ -1,3 +1,5 @@
+earnest
+equivalent
 exert
 misery
 mutual
