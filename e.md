@@ -1,4 +1,7 @@
 earnest
+humble
+misery
+earnest
 equivalent
 exert
 misery
