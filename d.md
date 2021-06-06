@@ -1,3 +1,9 @@
+acquaintance
+regular
+tray
+transform
+deceive
+temper
 worthy
 lest
 treatment
