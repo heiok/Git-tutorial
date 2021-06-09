@@ -1,3 +1,9 @@
+academic
+overseas
+transform
+misery
+fiction
+earnest
 anxious
 avoid
 satisfy
