@@ -1,3 +1,7 @@
+engage
+moral
+arouse
+occasion
 evident
 earnest
 humble
