@@ -1,3 +1,4 @@
+offer
 acquaintance
 regular
 tray
