@@ -1,3 +1,7 @@
+attendant
+astronaut
+colony
+barrier
 academic
 overseas
 transform
