@@ -1,3 +1,4 @@
+divorced
 despite
 offer
 acquaintance
