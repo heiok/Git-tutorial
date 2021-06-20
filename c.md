@@ -1,3 +1,5 @@
+phenomenon
+mutual
 initial
 dense
 companion
