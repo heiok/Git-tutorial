@@ -1,3 +1,5 @@
+vacant
+accurate
 phenomenon
 mutual
 initial
