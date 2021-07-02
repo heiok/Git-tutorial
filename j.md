@@ -1,3 +1,7 @@
+gender
+organ
+liver
+citizenship
 glacier
 puffy
 fry
