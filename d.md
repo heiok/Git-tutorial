@@ -1,3 +1,6 @@
+despite
+pray
+intense
 nickname
 organ
 donation
