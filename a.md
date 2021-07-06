@@ -1,3 +1,7 @@
+avoid
+creature
+firm
+conduct
 adolescent
 attendant
 astronaut
