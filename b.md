@@ -1,3 +1,5 @@
+instinct
+circumstance
 pursue
 presence
 temporarily
