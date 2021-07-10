@@ -1,3 +1,5 @@
+despite
+earnest
 instinct
 circumstance
 pursue
