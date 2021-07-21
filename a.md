@@ -1,3 +1,5 @@
+artificial
+illustrate
 companion
 despite
 artery
