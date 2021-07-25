@@ -1,3 +1,6 @@
+transparent
+dense
+mutual
 artificial
 illustrate
 companion
