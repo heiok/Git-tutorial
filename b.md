@@ -1,3 +1,6 @@
+liver
+widowed
+appendix
 gender
 tissue
 appendix
