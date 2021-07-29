@@ -1,3 +1,4 @@
+adequate
 transparent
 dense
 mutual
