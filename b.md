@@ -1,3 +1,5 @@
+wisdom
+misery
 liver
 widowed
 appendix
