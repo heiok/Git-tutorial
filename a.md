@@ -1,3 +1,4 @@
+regent
 agony
 adequate
 transparent
