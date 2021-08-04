@@ -1,3 +1,6 @@
+delicate
+energetic
+pension
 wisdom
 misery
 liver
