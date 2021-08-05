@@ -1,3 +1,5 @@
+faculty
+oppose
 regent
 agony
 adequate
