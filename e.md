@@ -1,3 +1,5 @@
+earnest
+phenomenon
 satisfy
 vein
 citizenship
