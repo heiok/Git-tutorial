@@ -1,3 +1,8 @@
+lest
+inspire
+treatment
+skillful
+crude
 distinction
 engage
 nickname
