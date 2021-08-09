@@ -1,3 +1,4 @@
+dare
 delicate
 despite
 lag
