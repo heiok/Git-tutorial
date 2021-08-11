@@ -1,3 +1,4 @@
+intensity
 burgeon
 delicate
 energetic
