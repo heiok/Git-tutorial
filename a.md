@@ -1,3 +1,5 @@
+worship
+concern
 faculty
 oppose
 regent
