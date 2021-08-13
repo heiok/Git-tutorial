@@ -1,3 +1,5 @@
+evident
+presence
 worship
 concern
 faculty
