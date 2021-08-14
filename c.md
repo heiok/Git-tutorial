@@ -1,3 +1,6 @@
+anxious
+despite
+transform
 regular
 gentleman
 lest
