@@ -1,3 +1,4 @@
+principal
 dare
 delicate
 despite
