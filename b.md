@@ -1,3 +1,5 @@
+remedy
+sculpture
 intensity
 burgeon
 delicate
