@@ -1,3 +1,5 @@
+easy-going
+attitude
 hierarchy
 methane
 remedy
