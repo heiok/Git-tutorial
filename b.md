@@ -1,3 +1,4 @@
+traditional
 easy-going
 attitude
 hierarchy
