@@ -1,3 +1,5 @@
+funeral
+moral
 principal
 dare
 delicate
