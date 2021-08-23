@@ -1,3 +1,6 @@
+encourage
+acquaintance
+academic
 avoid
 evident
 presence
