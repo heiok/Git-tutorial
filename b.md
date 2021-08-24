@@ -1,3 +1,9 @@
+overseas
+conduct
+creature
+acquaintance
+academic
+encourage
 traditional
 easy-going
 attitude
