@@ -1,3 +1,8 @@
+colony
+instinct
+pursue
+barrier
+humble
 overseas
 conduct
 creature
