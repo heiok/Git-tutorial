@@ -1,4 +1,6 @@
 colony
+demonstrate
+colony
 instinct
 pursue
 barrier
