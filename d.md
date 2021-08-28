@@ -1,3 +1,5 @@
+various
+sock
 funeral
 moral
 principal
