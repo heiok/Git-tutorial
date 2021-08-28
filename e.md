@@ -1,3 +1,6 @@
+burgeon
+regent
+hierarchy
 earnest
 phenomenon
 satisfy
