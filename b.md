@@ -1,3 +1,6 @@
+recognize
+adolescent
+differ
 colony
 demonstrate
 colony
