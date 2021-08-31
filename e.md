@@ -1,3 +1,4 @@
+vacant
 occasion
 burgeon
 regent
