@@ -1,3 +1,6 @@
+wit
+arouse
+deceive
 hierarchy
 regent
 elctrical
