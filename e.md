@@ -1,3 +1,4 @@
+exert
 vacant
 occasion
 burgeon
