@@ -1,3 +1,5 @@
+equivalent
+colony
 despite
 various
 sock
