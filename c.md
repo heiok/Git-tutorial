@@ -1,3 +1,7 @@
+tray
+pray
+temper
+firm
 colony
 regent
 anxious
