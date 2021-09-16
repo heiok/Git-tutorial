@@ -1,3 +1,5 @@
+regent
+electrical
 tray
 pray
 temper
