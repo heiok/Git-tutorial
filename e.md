@@ -1,3 +1,5 @@
+easy-going
+mathane
 earnest
 exert
 vacant
