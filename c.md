@@ -1,3 +1,6 @@
+colony
+attendant
+phenomenon
 consortinum
 regent
 electrical
