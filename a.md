@@ -1,3 +1,8 @@
+hierarchy
+electrical
+regent
+burgeon
+chronic
 encourage
 acquaintance
 academic
