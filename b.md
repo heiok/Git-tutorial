@@ -1,3 +1,4 @@
+intense
 misery
 transform
 illustrate
