@@ -1,3 +1,6 @@
+chronic
+methane
+carry
 colony
 attendant
 phenomenon
