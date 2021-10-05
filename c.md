@@ -1,3 +1,5 @@
+resort
+equity
 chronic
 methane
 carry
