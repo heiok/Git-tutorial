@@ -1,3 +1,4 @@
+adequate
 methane
 traditional
 avoid
