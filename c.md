@@ -1,3 +1,4 @@
+circumstance
 resort
 equity
 chronic
