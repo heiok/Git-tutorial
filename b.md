@@ -1,3 +1,7 @@
+delicate
+pension
+instinct
+energetic
 intense
 misery
 transform
