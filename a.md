@@ -1,3 +1,6 @@
+artificial
+regular
+satisfy
 mathane
 traditional
 pursue
