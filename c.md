@@ -1,3 +1,6 @@
+excavate
+burgeon
+chronic
 regent
 lest
 skillful
