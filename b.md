@@ -1,3 +1,5 @@
+subliminal
+resort
 delicate
 pension
 instinct
