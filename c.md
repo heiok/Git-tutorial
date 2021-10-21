@@ -1,3 +1,6 @@
+easy-going
+resort
+equity
 excavate
 burgeon
 chronic
