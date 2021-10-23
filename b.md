@@ -1,3 +1,6 @@
+excavate
+roll film
+hectare
 subliminal
 resort
 delicate
