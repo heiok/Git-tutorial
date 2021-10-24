@@ -1,3 +1,6 @@
+resort
+subliminal
+massive
 distinction
 demonstrate
 despite
