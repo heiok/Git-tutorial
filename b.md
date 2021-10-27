@@ -1,3 +1,5 @@
+resort
+chronic
 excavate
 roll film
 hectare
