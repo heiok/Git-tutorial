@@ -1,3 +1,5 @@
+concern
+moral
 consortium
 subliminal
 equity
