@@ -1,3 +1,6 @@
+faculty
+earnest
+wisdom
 resort
 chronic
 excavate
