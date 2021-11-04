@@ -1,3 +1,5 @@
+evident
+barrier
 anxious
 agony
 methane
