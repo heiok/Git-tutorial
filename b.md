@@ -1,3 +1,5 @@
+buckle
+chronic
 faculty
 earnest
 wisdom
