@@ -1,3 +1,7 @@
+academic
+regent
+hierarchy
+moral
 evident
 barrier
 anxious
