@@ -1,3 +1,6 @@
+inspire
+crude
+acquaintance
 phenomenon
 roll film
 electrical
