@@ -1,3 +1,5 @@
+oppose
+adolescent
 academic
 regent
 hierarchy
