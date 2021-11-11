@@ -1,3 +1,4 @@
+dare
 worship
 moral
 electrical
