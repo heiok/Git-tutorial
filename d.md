@@ -1,3 +1,6 @@
+moral
+humble
+presence
 dare
 worship
 moral
