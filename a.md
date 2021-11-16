@@ -1,3 +1,5 @@
+react
+electrical
 oppose
 adolescent
 academic
