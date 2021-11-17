@@ -1,3 +1,8 @@
+consortium
+chronic
+rig
+excevate
+buckle
 transform
 colony
 roll film
