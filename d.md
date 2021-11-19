@@ -1,3 +1,5 @@
+despite
+colony
 moral
 humble
 presence
