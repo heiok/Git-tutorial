@@ -1,3 +1,5 @@
+remedy
+sculpture
 inspire
 crude
 acquaintance
