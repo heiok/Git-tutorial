@@ -1,3 +1,6 @@
+equity
+massive
+chronic
 buckle
 chronic
 faculty
