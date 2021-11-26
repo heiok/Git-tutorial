@@ -1,3 +1,4 @@
+equity
 immigration
 mutual
 remedy
