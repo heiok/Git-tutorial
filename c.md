@@ -1,3 +1,5 @@
+colony
+moral
 mutual
 consumer
 pray
