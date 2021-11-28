@@ -1,3 +1,5 @@
+misery
+colony
 despite
 colony
 moral
