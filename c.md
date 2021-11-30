@@ -1,3 +1,6 @@
+encourage
+arouse
+mutual
 calroie
 bacon
 colony
