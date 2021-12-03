@@ -1,4 +1,12 @@
-instinct
+consortinum
+rig
+execvate
+curry
+van
+subliminal
+optional
+massive
+hectare
 misery
 colony
 despite
