@@ -1,3 +1,10 @@
+consortium
+resort
+sock
+hectare
+rig
+easy-going
+colony
 encourage
 arouse
 mutual
