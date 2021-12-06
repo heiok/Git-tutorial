@@ -1,3 +1,8 @@
+impart
+departmental
+intermediate
+van
+forfeit
 equity
 methane
 traditional
