@@ -1,3 +1,6 @@
+deceive
+excavate
+forfeit
 differ
 recognize
 consortinum
