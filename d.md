@@ -1,3 +1,9 @@
+massive
+calorie
+rig
+curry
+consortium
+resort
 deceive
 burgeon
 immigration
