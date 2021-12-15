@@ -1,3 +1,4 @@
+exert
 impart
 departmental
 intermediate
