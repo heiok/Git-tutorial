@@ -1,3 +1,6 @@
+deceive
+moral
+regent
 react
 electrical
 oppose
