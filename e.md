@@ -1,3 +1,5 @@
+hierarchy
+equity
 exert
 impart
 departmental
