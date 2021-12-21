@@ -1,3 +1,5 @@
+newsletter
+dismantle
 consumer
 massive
 calorie
