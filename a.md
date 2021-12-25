@@ -1,3 +1,14 @@
+easy-going
+calorie
+curry
+consortium
+buckle
+colony
+chronic
+hectare
+massive
+resort
+rig
 deceive
 moral
 regent
