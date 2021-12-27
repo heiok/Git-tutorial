@@ -1,3 +1,5 @@
+receptionist
+departmental
 mutual
 tray
 excavate
