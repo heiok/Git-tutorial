@@ -1,3 +1,7 @@
+van
+forfeit
+excavate
+intense
 delicate
 newsletter
 dismantle
