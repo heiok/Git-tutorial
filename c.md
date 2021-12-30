@@ -1,3 +1,7 @@
+dismantle
+periodcal
+landscape
+newsletter
 roll film
 colony
 consortium
