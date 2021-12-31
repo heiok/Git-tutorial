@@ -1,3 +1,5 @@
+subliminal
+intermediate
 easy-going
 calorie
 curry
