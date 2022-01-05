@@ -1,3 +1,4 @@
+inspiring
 tray
 receptionist
 equity
