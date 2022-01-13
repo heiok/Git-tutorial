@@ -1,3 +1,6 @@
+departmental
+colony
+newsletter
 regional
 periodical
 fabrication
