@@ -1,3 +1,5 @@
+regeional
+commonweathle
 departmental
 colony
 newsletter
