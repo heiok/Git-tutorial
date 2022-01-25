@@ -1,3 +1,4 @@
+periodical
 subliminal
 apace
 intermediate
