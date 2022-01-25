@@ -1,3 +1,6 @@
+fabrication
+periodical
+mortgage
 stint
 embankment
 receptionist
