@@ -1,3 +1,4 @@
+equity
 mutual
 dismantle
 regional
