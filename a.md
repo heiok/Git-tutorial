@@ -1,3 +1,6 @@
+periodical
+inspiring
+rig
 surge
 attendance
 newsletter
