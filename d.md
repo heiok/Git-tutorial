@@ -1,3 +1,6 @@
+optional
+ventilation
+landscape
 equity
 mutual
 dismantle
