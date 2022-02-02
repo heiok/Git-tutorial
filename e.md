@@ -1,3 +1,4 @@
+squash
 earnest
 departmental
 newsletter
