@@ -1,3 +1,5 @@
+wisdom
+attendance
 consortnium
 fabrication
 heal
