@@ -1,3 +1,8 @@
+van
+excavate
+forfeit
+consumer
+impart
 migration
 embankment
 squash
