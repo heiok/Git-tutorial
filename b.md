@@ -1,3 +1,8 @@
+receptionist
+commonwealth
+attendance
+dismantle
+regional
 periodical
 subliminal
 apace
