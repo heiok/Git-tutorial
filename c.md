@@ -1,3 +1,12 @@
+fabrication
+federation
+tram
+stint
+migration
+whistle
+diagnose
+detective
+summit
 wisdom
 attendance
 consortnium
