@@ -1,3 +1,5 @@
+seep
+viewpoint
 optional
 ventilation
 landscape
