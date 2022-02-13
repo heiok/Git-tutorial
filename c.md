@@ -1,3 +1,4 @@
+chink
 complicate
 diagnose
 variation
