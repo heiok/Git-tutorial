@@ -1,3 +1,6 @@
+colony
+distraction
+federation
 chink
 complicate
 diagnose
