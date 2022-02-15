@@ -1,3 +1,6 @@
+fabrication
+evacuate
+diagnose
 colony
 distraction
 federation
