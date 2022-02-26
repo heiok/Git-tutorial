@@ -1,3 +1,5 @@
+dicisive
+substanital
 colony
 receptionist
 commonwealth
