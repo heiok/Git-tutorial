@@ -1,3 +1,10 @@
+delicate
+overweight
+squash
+intermediate
+surge
+whistle
+tram
 audience
 attendance
 fabrication
