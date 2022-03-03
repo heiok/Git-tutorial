@@ -1,3 +1,7 @@
+odour
+decisive
+nurture
+dilinquency
 colony
 cipher
 colony
