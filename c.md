@@ -1,3 +1,5 @@
+chink
+attenfance
 odour
 decisive
 nurture
