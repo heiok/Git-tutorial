@@ -1,3 +1,4 @@
+colony
 chink
 attenfance
 odour
