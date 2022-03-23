@@ -1,3 +1,6 @@
+exert
+heal
+apace
 evacuate
 fabrication
 ventilation
