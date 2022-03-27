@@ -1,3 +1,8 @@
+periodical
+heal
+inspiring
+crocodile
+apace
 attendance
 dismantle
 regional
