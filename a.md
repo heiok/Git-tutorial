@@ -1,3 +1,5 @@
+ambassador
+denote
 questionnaire
 attendance
 periodical
