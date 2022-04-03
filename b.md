@@ -1,3 +1,5 @@
+leak
+nurture
 seep
 ambassador
 odour
