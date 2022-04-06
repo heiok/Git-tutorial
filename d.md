@@ -1,3 +1,6 @@
+seep
+leak
+viewpoint
 delinquency
 fabrication
 deceive
