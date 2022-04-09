@@ -1,3 +1,5 @@
+genetic
+nurture
 ambassador
 denote
 questionnaire
