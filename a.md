@@ -1,3 +1,5 @@
+ambassador
+mutual
 attendance
 attendance
 zoological
