@@ -1,3 +1,7 @@
+commonwealth
+viewpoint
+colony
+denote
 burgeon
 leak
 nurture
