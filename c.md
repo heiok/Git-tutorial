@@ -1,3 +1,7 @@
+summit
+odour
+epitomise
+delinquency
 crocodile
 apace
 attendance
