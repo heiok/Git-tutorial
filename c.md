@@ -1,3 +1,4 @@
+compulsory
 summit
 odour
 epitomise
