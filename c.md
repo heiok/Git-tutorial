@@ -1,3 +1,5 @@
+deceive
+broom
 compulsory
 summit
 odour
