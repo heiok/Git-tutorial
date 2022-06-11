@@ -1,3 +1,5 @@
+doctorate
+lavatory
 complicate
 embankment
 deceive
