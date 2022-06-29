@@ -1,3 +1,6 @@
+exert
+moral
+genetic
 distraction
 deduce
 impede
