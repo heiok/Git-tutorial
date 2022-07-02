@@ -1,3 +1,5 @@
+atomic
+cosset
 submarine
 exert
 moral
