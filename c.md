@@ -1,3 +1,6 @@
+zoological
+deduce
+broom
 crossword
 theoretical
 leak
