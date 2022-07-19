@@ -1,3 +1,5 @@
+cute
+jazzed
 doornail
 deceive
 snuff
