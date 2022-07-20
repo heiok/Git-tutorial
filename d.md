@@ -1,3 +1,4 @@
+delicate
 cute
 jazzed
 doornail
