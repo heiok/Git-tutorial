@@ -1,3 +1,5 @@
+entry
+cubicle
 delicate
 cute
 jazzed
