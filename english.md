@@ -1,3 +1,5 @@
+warrior
+infrastructure
 genetic
 questionnaire
 periodical
