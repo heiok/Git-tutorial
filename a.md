@@ -1,3 +1,4 @@
+alternating
 poised
 awfully
 attendance
