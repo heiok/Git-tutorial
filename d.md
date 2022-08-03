@@ -1,3 +1,6 @@
+cubicle
+impolite
+bonus
 jonquil
 cute
 illustrated
