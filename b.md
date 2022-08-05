@@ -1,3 +1,6 @@
+warrior
+calcium
+denote
 bonus
 jonquil
 sneeze
