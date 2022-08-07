@@ -1,3 +1,7 @@
+alternating
+calcium
+bonus
+congratulations
 registered
 alternating
 poised
