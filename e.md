@@ -1,3 +1,9 @@
+entry
+bonus
+consistency
+capitalism
+congratulations
+firmware
 embankment
 doorknob
 sneeze
