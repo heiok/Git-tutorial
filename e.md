@@ -1,3 +1,7 @@
+doorknob
+jonquil
+democratic
+illustrated
 entry
 bonus
 consistency
