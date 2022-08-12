@@ -1,3 +1,6 @@
+denote
+jazzed
+felt
 doorknob
 jonquil
 democratic
