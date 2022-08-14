@@ -1,3 +1,5 @@
+darn
+congratulations
 denote
 cubicle
 impolite
