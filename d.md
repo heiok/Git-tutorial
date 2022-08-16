@@ -1,3 +1,7 @@
+architecture
+handshaking
+peripheral
+undergraduate
 darn
 congratulations
 denote
