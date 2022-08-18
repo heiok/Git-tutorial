@@ -1,3 +1,5 @@
+compulsory
+leak
 calcium
 colony
 registered
