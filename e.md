@@ -1,3 +1,6 @@
+deduce
+genetic
+irritation
 legacy
 felt
 jazzed
