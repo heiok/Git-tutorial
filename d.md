@@ -1,4 +1,7 @@
 distraction
+denote
+colony
+distraction
 architecture
 handshaking
 peripheral
