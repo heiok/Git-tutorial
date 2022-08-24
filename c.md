@@ -1,3 +1,5 @@
+evacuate
+nurture
 compulsory
 leak
 calcium
