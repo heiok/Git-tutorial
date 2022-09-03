@@ -1,3 +1,4 @@
+gambling
 poised
 undergraduate
 rhythm
