@@ -1,3 +1,7 @@
+bifurcation
+peripheral
+anniversary
+festivity
 bullshit
 poised
 calcium
