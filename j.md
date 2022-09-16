@@ -1,3 +1,4 @@
+perspective
 gambling
 poised
 undergraduate
