@@ -1,3 +1,5 @@
+nurture
+embankment
 warrior
 infrastructure
 genetic
