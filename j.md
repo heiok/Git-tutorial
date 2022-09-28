@@ -1,3 +1,4 @@
+nurture
 perspective
 gambling
 poised
