@@ -1,3 +1,5 @@
+donation
+intensity
 designate
 awfully
 fell
