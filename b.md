@@ -1,3 +1,4 @@
+warrior
 perspective
 reflection
 denote
