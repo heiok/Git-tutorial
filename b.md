@@ -1,3 +1,6 @@
+initiative
+attendance
+poised
 warrior
 perspective
 reflection
