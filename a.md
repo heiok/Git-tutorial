@@ -1,3 +1,6 @@
+album
+itinerary
+preeminent
 awfully
 nurture
 embankment
