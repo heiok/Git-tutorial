@@ -1,3 +1,5 @@
+auxiliary
+converged
 album
 itinerary
 preeminent
