@@ -1,3 +1,5 @@
+periodically
+foam
 donation
 intensity
 designate
