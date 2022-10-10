@@ -1,3 +1,5 @@
+vibtate
+ratio
 bottleneck
 darn
 initiative
