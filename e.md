@@ -1,3 +1,5 @@
+perspective
+deceive
 exert
 embankment
 infrastructure
