@@ -1,3 +1,6 @@
+vaccinate
+vaccination
+itinerary
 perspective
 deceive
 exert
