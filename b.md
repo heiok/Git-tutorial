@@ -1,3 +1,5 @@
+parallel
+registered
 vibtate
 ratio
 bottleneck
