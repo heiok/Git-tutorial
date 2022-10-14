@@ -1,3 +1,5 @@
+denote
+nurture
 periodically
 foam
 donation
