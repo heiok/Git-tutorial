@@ -1,3 +1,5 @@
+awfully
+darn
 embankment
 auxiliary
 converged
