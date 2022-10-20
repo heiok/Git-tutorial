@@ -1,3 +1,4 @@
+initiative
 denote
 nurture
 periodically
