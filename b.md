@@ -1,3 +1,5 @@
+periodicaly
+helicopter
 parallel
 registered
 vibtate
