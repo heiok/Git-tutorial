@@ -1,3 +1,5 @@
+deduce
+legacy
 initiative
 denote
 nurture
