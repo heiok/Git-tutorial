@@ -1,3 +1,6 @@
+genetic
+darn
+parallel
 nurture
 perspective
 gambling
