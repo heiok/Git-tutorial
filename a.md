@@ -1,3 +1,5 @@
+mortgage
+subprime
 riser
 darn
 awfully
