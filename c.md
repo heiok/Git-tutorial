@@ -1,3 +1,5 @@
+couplet
+redundant
 journlist
 bottleneck
 vibrate
