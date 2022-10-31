@@ -1,3 +1,6 @@
+tutorial
+severity
+patrol
 encryption
 spicy
 jazzed
