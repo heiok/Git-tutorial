@@ -1,3 +1,5 @@
+perspective
+felt
 couplet
 redundant
 journlist
