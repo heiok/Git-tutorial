@@ -1,4 +1,4 @@
-severity
+collateralized debt obligation severity
 perspective
 tutorial
 leak
