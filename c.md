@@ -1,3 +1,5 @@
+registry
+integration
 couplet
 perspective
 felt
