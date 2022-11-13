@@ -1,3 +1,5 @@
+cue
+bullshit
 registry
 integration
 couplet
