@@ -1,3 +1,5 @@
+cockpit
+duplicate
 cue
 bullshit
 registry
