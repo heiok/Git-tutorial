@@ -1,3 +1,4 @@
+allergic
 cockpit
 duplicate
 cue
