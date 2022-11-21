@@ -1,3 +1,4 @@
+diagnosis
 scissors
 legendary
 periodicaly
