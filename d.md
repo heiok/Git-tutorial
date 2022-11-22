@@ -1,3 +1,5 @@
+tutorial
+initiative
 decrypt
 darn
 darn
