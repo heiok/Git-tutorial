@@ -1,3 +1,5 @@
+perspective
+parallel
 tutorial
 initiative
 decrypt
