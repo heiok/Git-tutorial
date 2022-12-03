@@ -1,3 +1,7 @@
+fragile
+fungible
+reel
+ripple
 multiply
 a body of sth
 diagnosis
