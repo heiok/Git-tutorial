@@ -1,4 +1,6 @@
 couplet
+darn
+couplet
 couplet
 allergic
 cockpit
