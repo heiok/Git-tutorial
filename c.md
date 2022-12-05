@@ -1,3 +1,6 @@
+pave
+probability
+statistics
 couplet
 darn
 couplet
