@@ -1,3 +1,5 @@
+designated
+resign
 eligible
 turn to
 perspective
