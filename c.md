@@ -1,3 +1,5 @@
+converged
+spicy
 pave
 probability
 statistics
