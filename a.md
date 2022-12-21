@@ -1,3 +1,4 @@
+be worthy of
 in advance
 circuit
 turn to
