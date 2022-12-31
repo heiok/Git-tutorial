@@ -1,3 +1,5 @@
+felt
+foundry
 resistor
 greenhouse effect 
 federal government
