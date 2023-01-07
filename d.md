@@ -1,3 +1,5 @@
+exert
+monetary
 bailout
 denote
 designated
