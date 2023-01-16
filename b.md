@@ -1,3 +1,4 @@
+collateralized debt obligation
 bailout
 cockpit
 explain
