@@ -1,3 +1,7 @@
+algorithm
+morale
+fragile
+fungible
 be sensitive of sth
 unconscious
 synthetic
