@@ -1,3 +1,4 @@
+not necessarily
 registry
 collateralized debt obligation
 bailout
