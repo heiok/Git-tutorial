@@ -1,3 +1,4 @@
+in brief
 not necessarily
 registry
 collateralized debt obligation
