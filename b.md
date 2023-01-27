@@ -1,3 +1,5 @@
+thghtening
+make sence
 in brief
 not necessarily
 registry
