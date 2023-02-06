@@ -1,3 +1,4 @@
+deduct
 depreciation
 make up
 kindergender
