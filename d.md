@@ -1,3 +1,4 @@
+depreciation
 deduct
 depreciation
 make up
