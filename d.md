@@ -1,4 +1,4 @@
-dysfuction
+dysfunction
 depreciation
 deduct
 depreciation
