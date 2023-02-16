@@ -1,3 +1,4 @@
+initiative
 kindergarten
 tightening
 glacier
