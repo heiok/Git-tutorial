@@ -1,3 +1,5 @@
+bail
+in effect
 tightening
 dysfunction
 triple
