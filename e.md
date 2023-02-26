@@ -1,3 +1,4 @@
+depreciation
 pave
 eligible
 distraction
