@@ -1,3 +1,4 @@
+vault
 felt
 glacier
 bail
