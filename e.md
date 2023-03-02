@@ -1,3 +1,5 @@
+worsen
+plaza
 depreciation
 pave
 eligible
