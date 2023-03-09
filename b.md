@@ -1,3 +1,4 @@
+tightening
 bubble
 depreciation
 in no time
