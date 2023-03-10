@@ -1,3 +1,4 @@
+depreciation
 tightening
 bubble
 depreciation
