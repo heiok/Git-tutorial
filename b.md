@@ -1,3 +1,4 @@
+be sensitive to sth
 depreciation
 tightening
 bubble
