@@ -1,3 +1,4 @@
+worsen
 dysfunction
 glacier
 bail
