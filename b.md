@@ -1,3 +1,4 @@
+depreciation
 be sensitive to sth
 depreciation
 tightening
