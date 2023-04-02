@@ -1,3 +1,5 @@
+perspective
+hedge
 eligible
 depreciation
 be sensitive to sth
