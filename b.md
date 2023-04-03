@@ -1,3 +1,4 @@
+worsen
 perspective
 hedge
 eligible
