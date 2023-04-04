@@ -1,3 +1,4 @@
+polynomial
 worsen
 perspective
 hedge
