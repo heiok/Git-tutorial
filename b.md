@@ -1,3 +1,4 @@
+asymmetric
 genetic
 polynomial
 worsen
