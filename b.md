@@ -1,3 +1,5 @@
+glacier
+kindergarten
 asymmetric
 genetic
 polynomial
