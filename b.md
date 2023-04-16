@@ -1,3 +1,4 @@
+exposure
 glacier
 kindergarten
 asymmetric
