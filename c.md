@@ -1,3 +1,5 @@
+contagion
+annuity
 couplet
 ripple
 convexity
