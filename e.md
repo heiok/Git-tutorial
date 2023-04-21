@@ -1,3 +1,5 @@
+exposure
+annuity
 no sooner than
 falcon
 maturity
