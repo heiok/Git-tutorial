@@ -1,3 +1,4 @@
+tightening
 exposure
 glacier
 kindergarten
