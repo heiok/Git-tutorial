@@ -1,3 +1,4 @@
+stick with
 exposure
 annuity
 no sooner than
