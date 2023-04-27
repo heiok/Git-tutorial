@@ -1,3 +1,4 @@
+bearing
 tightening
 exposure
 glacier
