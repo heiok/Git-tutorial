@@ -1,4 +1,5 @@
 bearing
+bearing
 tightening
 exposure
 glacier
