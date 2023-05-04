@@ -1,3 +1,4 @@
+exposure
 stick with
 exposure
 annuity
