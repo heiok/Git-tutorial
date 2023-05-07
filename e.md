@@ -1,3 +1,4 @@
+wizard
 exposure
 stick with
 exposure
