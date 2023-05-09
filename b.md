@@ -1,3 +1,4 @@
+bearing
 bubble
 contagion
 bearing
