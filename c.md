@@ -1,3 +1,5 @@
+convexity
+depreciation
 clutch
 stem from sth
 clutch
