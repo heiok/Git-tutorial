@@ -1,3 +1,4 @@
+worsen
 stem from sth
 felt
 annuity
