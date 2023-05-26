@@ -1,3 +1,6 @@
+tranche
+clutch
+plaza
 fitness
 worsen
 stem from sth
