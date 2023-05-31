@@ -1,3 +1,6 @@
+make sense
+preeminent
+bearing
 apply to
 let alone
 lane
