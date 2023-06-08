@@ -1,3 +1,5 @@
+exposure
+hedge
 nothing but
 felt
 fitness
