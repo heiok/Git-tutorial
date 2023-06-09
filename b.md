@@ -1,3 +1,4 @@
+tall
 exposure
 hedge
 nothing but
