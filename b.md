@@ -1,3 +1,5 @@
+bubble
+make sense
 stem from sth
 tall
 exposure
