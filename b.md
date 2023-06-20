@@ -1,3 +1,4 @@
+tell
 bubble
 make sense
 stem from sth
