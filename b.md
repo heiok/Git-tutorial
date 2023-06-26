@@ -1,3 +1,4 @@
+in favor of
 tell
 bubble
 make sense
