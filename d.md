@@ -1,3 +1,6 @@
+genetic
+ward off
+interact with
 deal with
 in favor of
 hedge
