@@ -1,3 +1,5 @@
+interact with
+stem from sth
 stem from sth
 no sooner than
 stick with
