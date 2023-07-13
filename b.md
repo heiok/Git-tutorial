@@ -1,3 +1,5 @@
+felt
+at all times
 in favor of
 tell
 bubble
