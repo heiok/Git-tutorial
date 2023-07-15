@@ -1,3 +1,5 @@
+bearing
+in brief
 felt
 at all times
 in favor of
