@@ -1,3 +1,5 @@
+be reponsible for
+deal with
 abbey
 interact with
 stem from sth
