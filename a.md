@@ -1,3 +1,5 @@
+ounce
+refurbish
 be reponsible for
 deal with
 abbey
