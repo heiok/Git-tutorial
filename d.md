@@ -1,3 +1,6 @@
+access to sth
+abbey
+in brief
 skeleton
 felt
 deal with
