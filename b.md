@@ -1,3 +1,4 @@
+treasury
 felt
 skeleton
 ounce
