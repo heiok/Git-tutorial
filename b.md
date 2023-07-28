@@ -1,3 +1,5 @@
+bearing
+convexity
 treasury
 felt
 skeleton
