@@ -1,3 +1,6 @@
+ounce
+access to sth
+be supposed to do
 skeleton
 clutch
 interact with
