@@ -1,3 +1,4 @@
+verdant
 refurbish
 wealth
 access to sth
