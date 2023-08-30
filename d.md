@@ -1,3 +1,5 @@
+in favor of
+treasury
 verdant
 refurbish
 wealth
