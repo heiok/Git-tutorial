@@ -1,3 +1,5 @@
+obviously
+deal with
 in favor of
 treasury
 verdant
