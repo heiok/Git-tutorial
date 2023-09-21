@@ -1,3 +1,4 @@
+weekend
 obviously
 courtesy
 treasury
