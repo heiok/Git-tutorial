@@ -1,3 +1,5 @@
+prohibited
+weekend
 be supposed to do
 couplet
 interact with
