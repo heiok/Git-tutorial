@@ -1,3 +1,4 @@
+in favor of
 ounce
 ripple
 obviously
