@@ -1,3 +1,4 @@
+stratum
 prohibited
 weekend
 trans
