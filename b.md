@@ -1,3 +1,4 @@
+stratum
 synopsis
 anchor
 prohibited
