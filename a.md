@@ -1,3 +1,5 @@
+synopsis
+stratum
 anchor
 in favor of
 ounce
