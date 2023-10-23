@@ -1,3 +1,4 @@
+weekend
 anchor
 stratum
 synopsis
