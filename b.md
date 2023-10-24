@@ -1,3 +1,4 @@
+make sencse
 weekend
 anchor
 stratum
