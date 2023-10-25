@@ -1,4 +1,5 @@
 synopsis
+synopsis
 stratum
 anchor
 in favor of
