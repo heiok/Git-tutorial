@@ -1,3 +1,5 @@
+prohibited
+take a toll on
 make sencse
 weekend
 anchor
