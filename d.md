@@ -1,3 +1,4 @@
+stratum
 entitle sb to sth
 stratum
 prohibited
