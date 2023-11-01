@@ -1,3 +1,4 @@
+synopsis
 stratum
 entitle sb to sth
 stratum
