@@ -1,3 +1,4 @@
+stratum
 synopsis
 stratum
 entitle sb to sth
