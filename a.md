@@ -1,3 +1,4 @@
+stratum
 at random
 treasury
 synopsis
