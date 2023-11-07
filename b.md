@@ -1,3 +1,5 @@
+be reponsible to
+nothing but
 prohibited
 take a toll on
 make sencse
