@@ -1,3 +1,4 @@
+stratum
 anchor
 synopsis
 anchor
