@@ -1,3 +1,4 @@
+lease
 be reponsible to
 nothing but
 prohibited
