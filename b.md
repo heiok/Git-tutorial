@@ -1,3 +1,5 @@
+obviously
+in favor of
 presentation
 presentation
 deal with
