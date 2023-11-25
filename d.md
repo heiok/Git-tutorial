@@ -1,3 +1,4 @@
+stratum
 happen to do
 hooray
 make up
