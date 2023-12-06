@@ -1,3 +1,5 @@
+specialize in sth
+weekend
 preeminent
 stratum
 happen to do
