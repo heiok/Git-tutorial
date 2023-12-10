@@ -1,3 +1,4 @@
+vunlnerability
 defunct
 specialize in sth
 weekend
