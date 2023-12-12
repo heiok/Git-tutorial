@@ -1,3 +1,5 @@
+specialize in sth
+prohibited
 preeminent
 happen to do
 lease
