@@ -1,3 +1,4 @@
+defunct
 specialize in sth
 prohibited
 preeminent
