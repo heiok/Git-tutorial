@@ -1,3 +1,4 @@
+defunct
 vunlnerability
 defunct
 specialize in sth
