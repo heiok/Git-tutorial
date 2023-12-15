@@ -1,3 +1,5 @@
+defunct
+lease
 presentation
 vulnerability
 presentation
