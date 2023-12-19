@@ -1,3 +1,5 @@
+with reguard to
+curve
 presentation
 vulnerability
 lease
