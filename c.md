@@ -1,4 +1,6 @@
 defunct
+anchor
+defunct
 specialize in sth
 prohibited
 preeminent
