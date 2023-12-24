@@ -1,3 +1,5 @@
+be responsible for
+ward off
 entitle sb to do
 nothing but
 vulnerability
