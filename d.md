@@ -1,3 +1,4 @@
+entitle sb to sth
 be responsible for
 ward off
 entitle sb to do
