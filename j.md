@@ -1,3 +1,5 @@
+couplet
+specialize in sth
 result of sth
 voulnerability
 trans
