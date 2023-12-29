@@ -1,3 +1,4 @@
+be responsible for
 defunct
 lease
 presentation
