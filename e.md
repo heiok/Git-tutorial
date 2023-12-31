@@ -1,3 +1,4 @@
+synchronize
 be responsible for
 defunct
 lease
