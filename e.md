@@ -1,3 +1,5 @@
+vulnerability
+above all
 synchronize
 be responsible for
 defunct
