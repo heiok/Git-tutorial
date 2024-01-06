@@ -1,3 +1,4 @@
+defunct
 vulnerability
 above all
 synchronize
