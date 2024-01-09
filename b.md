@@ -1,3 +1,4 @@
+stratum
 synchronize
 happen to do
 presentation
