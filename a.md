@@ -1,3 +1,5 @@
+attempt to do
+curve
 abbey
 vulnerability
 presentation
