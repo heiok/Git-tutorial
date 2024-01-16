@@ -1,3 +1,4 @@
+an array of
 hooray
 attempt to do
 curve
