@@ -1,3 +1,5 @@
+with reguard to
+on the whole
 tailored
 twisted
 synopsis
