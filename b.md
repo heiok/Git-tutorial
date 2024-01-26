@@ -1,3 +1,5 @@
+curve
+in favor of
 make sense
 twisted
 stratum
