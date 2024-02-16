@@ -1,3 +1,5 @@
+amplify
+leverage
 twisted
 object to
 with reguard to
