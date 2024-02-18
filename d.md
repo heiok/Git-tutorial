@@ -1,3 +1,5 @@
+deal with
+amplify
 amplify
 leverage
 twisted
