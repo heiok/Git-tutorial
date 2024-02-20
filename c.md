@@ -1,3 +1,4 @@
+defunct
 leverage
 regard as sth
 twisted
