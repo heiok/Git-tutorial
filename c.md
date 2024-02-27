@@ -1,3 +1,5 @@
+twisted
+preeminent
 jewel
 defunct
 leverage
