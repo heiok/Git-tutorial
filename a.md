@@ -1,3 +1,4 @@
+at random
 entitle sb to do
 amplify
 leverage
