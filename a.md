@@ -1,3 +1,4 @@
+trans
 at random
 entitle sb to do
 amplify
