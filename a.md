@@ -1,3 +1,4 @@
+synopsis
 trans
 at random
 entitle sb to do
