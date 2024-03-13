@@ -1,3 +1,5 @@
+jewel
+daemon
 curve
 as a whole
 trans
