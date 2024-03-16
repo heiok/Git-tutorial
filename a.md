@@ -1,3 +1,5 @@
+leverage
+stratum
 amplify
 abbey
 synopsis
