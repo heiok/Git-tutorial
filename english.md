@@ -1,3 +1,4 @@
+entitle sb to do
 managle
 prohibited
 obviously
