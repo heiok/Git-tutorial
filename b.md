@@ -1,3 +1,4 @@
+ward off
 jewel
 daemon
 curve
