@@ -1,3 +1,5 @@
+trans
+at random
 revision
 ward off
 jewel
