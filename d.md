@@ -1,3 +1,6 @@
+daemon
+lease
+mangle
 tailored
 await
 jewel
