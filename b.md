@@ -1,3 +1,5 @@
+jewel
+Seattle
 ingress
 trans
 at random
