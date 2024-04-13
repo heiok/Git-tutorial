@@ -1,3 +1,4 @@
+in favor of
 curve
 couplet
 specialize in sth
