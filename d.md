@@ -1,3 +1,4 @@
+be responsible for
 amplify
 deal with
 mangle
