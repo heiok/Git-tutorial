@@ -1,3 +1,4 @@
+synchronize
 be responsible for
 amplify
 deal with
