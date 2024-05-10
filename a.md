@@ -1,3 +1,4 @@
+exponent
 hike
 ephemeral
 vulnerability
