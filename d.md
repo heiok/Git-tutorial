@@ -1,3 +1,4 @@
+curve
 definitely
 synchronize
 be responsible for
