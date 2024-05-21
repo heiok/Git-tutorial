@@ -1,3 +1,4 @@
+synchronize
 definitely
 transit
 as a whole
