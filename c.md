@@ -1,3 +1,4 @@
+exponent
 seesaw
 synchronize
 definitely
