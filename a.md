@@ -1,3 +1,5 @@
+chopstick
+nothing but
 trans
 scissor
 ephemeral
