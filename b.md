@@ -1,3 +1,5 @@
+peer
+Seattle
 await
 scissor
 participant
