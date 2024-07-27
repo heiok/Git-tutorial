@@ -1,3 +1,4 @@
+chapel
 daemon
 definitely
 as a whole
