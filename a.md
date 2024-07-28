@@ -1,3 +1,4 @@
+connectivity
 chapel
 daemon
 definitely
