@@ -1,3 +1,4 @@
+connectivity
 cone
 hike
 participant
