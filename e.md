@@ -1,3 +1,4 @@
+cone
 exponent
 trans
 amplify
