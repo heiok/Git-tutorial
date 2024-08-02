@@ -1,3 +1,4 @@
+chapel
 connectivity
 chapel
 daemon
