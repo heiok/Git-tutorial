@@ -1,3 +1,4 @@
+exponent
 peer
 pirate
 scissor
