@@ -1,3 +1,4 @@
+an array of
 in honor of
 with the exception of
 now that
