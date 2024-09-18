@@ -1,3 +1,4 @@
+in honor of
 with the exception of
 now that
 in honor of
