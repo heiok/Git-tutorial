@@ -1,3 +1,5 @@
+residential
+traveller
 in the long run
 transit
 await
