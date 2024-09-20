@@ -1,3 +1,4 @@
+result from sth
 residential
 traveller
 in the long run
