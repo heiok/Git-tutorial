@@ -1,3 +1,4 @@
+hike
 in honor of
 an array of
 in honor of
