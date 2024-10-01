@@ -1,3 +1,4 @@
+result in sth
 hike
 in honor of
 an array of
